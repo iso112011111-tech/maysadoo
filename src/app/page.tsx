@@ -1,18 +1,12 @@
-import { Fragment } from "react";
-import { ArrowRight, Brand, Spark } from "@/components/Brand";
+import Link from "next/link";
+import { ArrowRight } from "@/components/Brand";
 import CardRing from "@/components/CardRing";
-import DailyCard from "@/components/DailyCard";
-import DeckMarquee from "@/components/DeckMarquee";
 import Effects from "@/components/Effects";
+import MoonPhase from "@/components/MoonPhase";
 import Nav from "@/components/Nav";
 import SplitWords from "@/components/SplitWords";
-import Steps from "@/components/Steps";
-import Topics from "@/components/Topics";
-import { MAJORS } from "@/lib/tarot";
 
 export default function Home() {
-  const names = MAJORS.map((c) => c.en);
-
   return (
     <>
       <Effects />
@@ -35,13 +29,13 @@ export default function Home() {
               ดูดวงไพ่ทาโรต์ 78 ใบ ตีความตามตำราของ A. E. Waite ผู้สร้างสำรับ<span className="nowrap">ไรเดอร์–เวท</span> เลือกหัวข้อ สับไพ่ แล้วเปิดดูได้ในไม่กี่นาที
             </p>
             <div className="hero-cta reveal">
-              <a className="btn btn-primary btn-lg" href="#topics" data-magnetic>
-                เริ่มดูดวง
+              <Link className="btn btn-primary btn-lg" href="/reading" data-magnetic>
+                เริ่มดูดวงฟรี
                 <ArrowRight />
-              </a>
-              <a className="btn btn-ghost btn-lg" href="#daily" data-magnetic>
+              </Link>
+              <Link className="btn btn-ghost btn-lg" href="/reading?spread=1" data-magnetic>
                 ไพ่ประจำวัน
-              </a>
+              </Link>
             </div>
           </div>
 
@@ -57,53 +51,15 @@ export default function Home() {
             <li>
               <b>56</b>ไพ่เล็ก
             </li>
+            <li>
+              <MoonPhase />
+            </li>
           </ul>
-          <div className="scroll-cue" aria-hidden="true">
-            ลากวงไพ่เพื่อหมุน · เลื่อนลงเพื่อดูต่อ
-            <i />
-          </div>
-        </section>
-
-        {/* ============ TICKER ============ */}
-        <div className="ticker" aria-hidden="true">
-          <div className="ticker-track">
-            {[...names, ...names].map((n, i) => (
-              <Fragment key={i}>
-                <span>{n}</span>
-                <Spark />
-              </Fragment>
-            ))}
-          </div>
-        </div>
-
-        <Topics />
-        <DailyCard />
-        <Steps />
-        <DeckMarquee />
-
-        {/* ============ FINAL CTA ============ */}
-        <section className="section">
-          <div className="final reveal">
-            <span className="label">พร้อมแล้วหรือยัง</span>
-            <h2>
-              คำตอบอยู่ใน<span className="holo-text">ไพ่ใบถัดไป</span>
-            </h2>
-            <p>ใช้เวลาไม่ถึง 3 นาที ไม่ต้องสมัครสมาชิก</p>
-            <a className="btn btn-primary btn-lg" href="#topics" data-magnetic>
-              เริ่มดูดวงเลย
-              <ArrowRight />
-            </a>
-          </div>
+          <p className="scroll-cue" aria-hidden="true">
+            ลากวงไพ่เพื่อหมุน
+          </p>
         </section>
       </main>
-
-      <footer className="footer">
-        <Brand />
-        <div className="footer-text">
-          <p>ภาพไพ่: Pamela Colman Smith (1909) สาธารณสมบัติ · ความหมายไพ่: A. E. Waite, The Pictorial Key to the Tarot (1910)</p>
-          <p>คำทำนายเพื่อความบันเทิงและเป็นแนวทางในการไตร่ตรอง โปรดใช้วิจารณญาณ</p>
-        </div>
-      </footer>
     </>
   );
 }

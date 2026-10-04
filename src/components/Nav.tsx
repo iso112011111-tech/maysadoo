@@ -1,13 +1,14 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect, useState } from "react";
 import { Brand } from "./Brand";
+import SoundToggle from "./SoundToggle";
 
 const LINKS = [
-  { href: "#topics", label: "ดูดวง" },
-  { href: "#daily", label: "ไพ่ประจำวัน" },
-  { href: "#how", label: "วิธีดูดวง" },
-  { href: "#deck", label: "ไพ่ 78 ใบ" },
+  { href: "/reading", label: "เปิดไพ่" },
+  { href: "/session", label: "ห้องแม่หมอ" },
+  { href: "/history", label: "ประวัติ" },
 ];
 
 export default function Nav() {
@@ -23,17 +24,18 @@ export default function Nav() {
 
   return (
     <header className={`nav${scrolled ? " scrolled" : ""}${open ? " open" : ""}`}>
-      <Brand href="#" />
+      <Brand href="/" />
       <nav className="nav-links" aria-label="เมนูหลัก">
         {LINKS.map((l) => (
-          <a key={l.href} href={l.href} onClick={() => setOpen(false)}>
+          <Link key={l.href} href={l.href} onClick={() => setOpen(false)}>
             {l.label}
-          </a>
+          </Link>
         ))}
       </nav>
-      <a className="btn btn-primary btn-sm" href="#topics">
+      <SoundToggle />
+      <Link className="btn btn-primary btn-sm" href="/reading">
         เริ่มดูดวง
-      </a>
+      </Link>
       <button className="burger" type="button" aria-label="เปิดเมนู" aria-expanded={open} onClick={() => setOpen((o) => !o)}>
         <i />
         <i />

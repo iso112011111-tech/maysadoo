@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
+import Dust from "./Dust";
 
 /**
  * Page-wide effects that need no markup of their own:
@@ -66,6 +67,8 @@ export default function Effects() {
   return (
     <>
       <div className="ambient" aria-hidden="true" />
+      <Dust />
+      <div className="vignette" aria-hidden="true" />
       <div className="grain" aria-hidden="true" />
       <div className="progress" aria-hidden="true" />
     </>

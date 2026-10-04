@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useEffect, useRef } from "react";
 import { cardImage, MAJORS } from "@/lib/tarot";
+import ZodiacWheel from "./ZodiacWheel";
 
 const RING = [0, 1, 2, 6, 7, 10, 13, 16, 17, 18, 19, 21];
 const STEP = 360 / RING.length;
@@ -95,7 +96,9 @@ export default function CardRing() {
   return (
     <div className="stage" ref={stageRef} aria-label="วงไพ่ทาโรต์หมุนได้ ลากเพื่อหมุน">
       <div className="beam" aria-hidden="true" />
-      <div className="grid-floor" aria-hidden="true" />
+      <div className="floor-wheel" aria-hidden="true">
+        <ZodiacWheel />
+      </div>
       <div className="ring" ref={ringRef}>
         {RING.map((n, i) => {
           const card = MAJORS[n];

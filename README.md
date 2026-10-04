@@ -1,16 +1,51 @@
 # ดูดวงออนไลน์ — ไพ่ทาโรต์
 
-Next.js 16 (App Router) + TypeScript · ตอนนี้มีเฉพาะหน้าแรก (UX/UI) ยังไม่มีระบบดูดวง
+Next.js 16 (App Router) + TypeScript · Node 22.13+ · SQLite ในตัว Node (`node:sqlite`) ไม่ต้องลง database server แยก
+
+## ฟีเจอร์ (ฟรี)
+
+- เปิดไพ่ 4 รูปแบบ: **1 ใบ** (ไพ่ประจำวัน — ไม่ถามหัวข้อ ทำนายภาพรวมของวัน), **3 ใบ** (อดีต · ปัจจุบัน · อนาคต), **4 ใบ** (สถานการณ์ · อุปสรรค · คำแนะนำ · ผลลัพธ์), **10 ใบ** (Celtic Cross ตามตำรา Waite)
+- 3/4/10 ใบ: ติ๊กเลือกหัวข้อ (ภาพรวม ความรัก การงาน การเงิน สุขภาพ การเรียน)
+- AI อธิบายไพ่ทุกใบว่าคืออะไร + คำทำนายตามตำแหน่ง แล้วสรุปผลรวม (สิ่งที่ควรทำ / ควรระวัง)
+- คำทำนายยึดความหมายจากตำรา A. E. Waite (ส่งจาก server ทุกครั้ง) และหลักการอ่านไพ่: ตำแหน่ง ไพ่กลับหัว สัดส่วนไพ่ใหญ่ ชุดที่เด่น ไพ่บุคคล ไพ่ออกซ้ำ (Waite §5)
+- ทุกคำทำนายบันทึกลง database มีลิงก์ `/reading/<id>` แชร์ได้ และหน้า `/history`
+- ไม่จำกัดจำนวนครั้ง · ทุกการเรียก AI ถูกบันทึกในตาราง `ai_log` (ระบุผู้ใช้ด้วย IP ที่ hash แล้ว ไม่เก็บ IP จริง)
+
+## ห้องแม่หมอ ตัวต่อตัว (พรีเมียม) — `/session`
+
+- เล่าคำถาม (พิมพ์หรือพูดผ่านไมค์) → แม่หมอทักทายด้วยเสียง → ก่อนเปิดแต่ละใบ แม่หมอบอกว่าใบนี้จะดูเรื่องอะไร → อ่านไพ่ทีละใบ ถามกลับเมื่อไม่แน่ใจ → เปิดไปเรื่อย ๆ จนความชัดเจน ≥ 80% (อย่างน้อย 3 ใบ สูงสุด 13 ใบ) → คำตอบ + ช่วงเวลา + สิ่งที่ควรทำ/ระวัง → ถามต่อได้
+- สำรับสับที่ server (เบราว์เซอร์เห็นแค่หลังไพ่) ห้องเก็บใน database กลับมาคุยต่อได้ที่ `/session/<id>`
+- ลูกแก้วกระเพื่อมตามเสียงพูด วงแหวนรอบลูกแก้วคือความชัดเจนของคำตอบ ซับไตเติลตามเสียง
+- ยังไม่มีระบบชำระเงิน: `PREMIUM_OPEN=1` เปิดให้ทุกคนใช้ (ทดสอบ) — จุดที่ต้องเปลี่ยนคือ `src/lib/server/premium.ts`
+
+## เสียงแม่หมอ
+
+- Gemini TTS (`GEMINI_API_KEYS` หลาย key) วนใช้ทีละ key: key ไหนติดโควตาจะพัก (ถึงเที่ยงคืนเวลาแปซิฟิก หรือตามเวลาที่ Google บอก) แล้วใช้ key ถัดไปทันที
+- แปลงเป็น MP3 เก็บ cache ที่ `DATA_DIR/tts` ประโยคเดิมไม่สร้างซ้ำ · พูดได้เฉพาะข้อความที่ server เขียนเอง (`/api/tts` ไม่รับข้อความจากภายนอก)
+- โหมดฟรี 1/3/4/10 ใบ: แม่หมออ่านเฉพาะสรุปผลรวม · ห้องแม่หมอ: พูดทุกตา
+
+## รัน
 
 ```bash
+cp .env.example .env.local   # ใส่ AI_API_KEY และ HASH_SALT
 npm install
-npm run dev     # http://localhost:5178
-npm run build && npm start
+npm run dev                  # http://localhost:5178
+npm run build && npm start   # production
 ```
+
+## บน VPS
+
+- ตั้ง `DATA_DIR` ให้ชี้โฟลเดอร์ถาวร เช่น `/srv/duduang/data` — ไฟล์ database คือ `tarot.db` (+ `-wal`, `-shm`)
+- สำรองข้อมูลแบบปลอดภัยขณะเว็บรันอยู่:
+  `node -e "new (require('node:sqlite').DatabaseSync)('data/tarot.db').exec(\"VACUUM INTO 'backup.db'\")"`
+- ถ้าอยู่หลัง nginx ให้ส่ง `X-Forwarded-For` เพื่อให้ระบบแยกผู้ใช้ (เจ้าของห้องแม่หมอ) ได้ถูกต้อง
 
 ## โครงสร้าง
 
-- `src/app/` — `layout.tsx` (ฟอนต์ + metadata), `page.tsx` (หน้าแรก), `globals.css` (ธีมทั้งหมด — ฟอนต์ Anuphan ตัวเดียว, ไม่ใช้อิโมจิ)
-- `src/components/` — `CardRing` (วงไพ่ 3 มิติ), `Effects` (แสงตามเมาส์, progress bar, scroll reveal, ปุ่มแม่เหล็ก), `Nav`, `SplitWords`, `Topics` (bento), `DailyCard` (ไพ่ holographic), `Steps` (sticky stack), `DeckMarquee`, `Brand` (โลโก้ + ไอคอน SVG)
-- `src/lib/tarot.ts` — ข้อมูลไพ่ใหญ่ หัวข้อ และรายการไพ่ 78 ใบ
+- `src/app/` — `page.tsx` (หน้าแรก), `reading/` (เปิดไพ่ + `[id]` คำทำนายที่บันทึกไว้), `history/`, `api/reading` (POST ทำนาย), `api/readings` (GET ประวัติ)
+- `src/components/reading/` — `ReadingFlow` (เลือกรูปแบบ → หัวข้อ → สับ/จั่ว), `ReadingView` (กระดานไพ่ + คำทำนายทีละใบ + สรุป), `HistoryList`
+- `src/lib/spreads.ts` — รูปแบบการเปิดไพ่ ตำแหน่ง หัวข้อ และ type ของคำทำนาย
+- `src/lib/deck.ts` — ไพ่ 78 ใบ (ฝั่ง browser) · `src/lib/server/tarot-waite.json` — ความหมายเต็มจากตำรา Waite (ฝั่ง server)
+- `src/lib/server/` — `ai.ts` (เรียก AI gateway), `reading.ts` (prompt + หลักการอ่านไพ่), `session.ts` (ห้องแม่หมอ), `tts.ts` (เสียงแม่หมอ), `db.ts` (SQLite)
+- `src/components/room/` — `Room` (ห้องแม่หมอ), `CrystalBall` (ลูกแก้ว), `RoomEntry`, `useDictation` (ไมค์)
 - `public/cards/` — ภาพไพ่ Rider–Waite 78 ใบ (Pamela Colman Smith, 1909 — สาธารณสมบัติ)

@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export function Logo() {
   return (
     <svg viewBox="0 0 32 32" aria-hidden="true">
@@ -23,9 +25,9 @@ export function Brand({ href }: { href?: string }) {
     </>
   );
   return href ? (
-    <a className="brand" href={href}>
+    <Link className="brand" href={href}>
       {inner}
-    </a>
+    </Link>
   ) : (
     <div className="brand">{inner}</div>
   );
@@ -43,15 +45,6 @@ export function ArrowUpRight() {
   return (
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
       <path d="M7 17 17 7M8 7h9v9" />
-    </svg>
-  );
-}
-
-/** Four-point star used as a separator */
-export function Spark() {
-  return (
-    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-      <path d="M12 2c.4 5.3 4.7 9.6 10 10-5.3.4-9.6 4.7-10 10-.4-5.3-4.7-9.6-10-10 5.3-.4 9.6-4.7 10-10z" />
     </svg>
   );
 }

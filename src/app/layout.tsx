@@ -1,6 +1,8 @@
 import type { Metadata, Viewport } from "next";
 import { Anuphan } from "next/font/google";
+import Footer from "@/components/Footer";
 import "./globals.css";
+import "./reading.css";
 
 const anuphan = Anuphan({
   variable: "--font-anuphan",
@@ -20,7 +22,10 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="th" className={anuphan.variable}>
-      <body>{children}</body>
+      <body>
+        {children}
+        <Footer />
+      </body>
     </html>
   );
 }

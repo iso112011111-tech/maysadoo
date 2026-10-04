@@ -1,0 +1,2018 @@
+{
+"cards": {
+"major-1": {
+"waiteTitle": "The Magician",
+"kw": [
+"ทักษะ",
+"การทูต",
+"ความมั่นใจในตนเอง"
+],
+"up": [
+"Skill, diplomacy, address, subtlety; sickness, pain, loss, disaster, snares of enemies; self-confidence, will; the Querent, if male.",
+"ทักษะ การทูต ไหวพริบ ความแยบยล; ความเจ็บป่วย ความเจ็บปวด ความสูญเสีย หายนะ กับดักของศัตรู; ความมั่นใจในตนเอง เจตจำนง; หมายถึงตัวผู้ถามเอง หากเป็นชาย"
+],
+"rev": [
+"Physician, Magus, mental disease, disgrace, disquiet.",
+"แพทย์ ผู้วิเศษ (เมไจ) โรคทางจิตใจ ความอัปยศ ความกระวนกระวายใจ"
+]
+},
+"major-2": {
+"waiteTitle": "The High Priestess",
+"kw": [
+"ความลับ",
+"ความลึกลับ",
+"อนาคตที่ยังไม่เผย"
+],
+"up": [
+"Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male; the Querent herself, if female; silence, tenacity; mystery, wisdom, science.",
+"ความลับ ความลึกลับ อนาคตที่ยังไม่ถูกเปิดเผย; หญิงที่ผู้ถามสนใจ หากผู้ถามเป็นชาย; ตัวผู้ถามเอง หากเป็นหญิง; ความเงียบ ความแน่วแน่ ความลึกลับ ปัญญา วิทยาการ"
+],
+"rev": [
+"Passion, moral or physical ardour, conceit, surface knowledge.",
+"ความหลงใหลรุนแรง ความเร่าร้อนทางใจหรือทางกาย ความทะนงตน ความรู้แบบผิวเผิน"
+]
+},
+"major-3": {
+"waiteTitle": "The Empress",
+"kw": [
+"ความอุดมสมบูรณ์",
+"การริเริ่ม",
+"อายุยืนยาว"
+],
+"up": [
+"Fruitfulness, action, initiative, length of days; the unknown, clandestine; also difficulty, doubt, ignorance.",
+"ความอุดมสมบูรณ์ การลงมือทำ การริเริ่ม อายุยืนยาว; สิ่งที่ไม่รู้ สิ่งที่ซ่อนเร้น; และยังหมายถึงความยากลำบาก ความสงสัย ความไม่รู้"
+],
+"rev": [
+"Light, truth, the unravelling of involved matters, public rejoicings; according to another reading, vacillation.",
+"แสงสว่าง ความจริง การคลี่คลายเรื่องที่ยุ่งเหยิง การเฉลิมฉลองของสาธารณชน; ตามอีกตำราหนึ่ง คือความลังเลไม่แน่นอน"
+]
+},
+"major-4": {
+"waiteTitle": "The Emperor",
+"kw": [
+"ความมั่นคง",
+"อำนาจ",
+"การคุ้มครอง"
+],
+"up": [
+"Stability, power, protection, realization; a great person; aid, reason, conviction; also authority and will.",
+"ความมั่นคง อำนาจ การคุ้มครอง การทำให้เป็นจริง; บุคคลผู้ยิ่งใหญ่; ความช่วยเหลือ เหตุผล ความเชื่อมั่น; และยังหมายถึงอำนาจและเจตจำนง"
+],
+"rev": [
+"Benevolence, compassion, credit; also confusion to enemies, obstruction, immaturity.",
+"ความเมตตา ความเห็นอกเห็นใจ ความน่าเชื่อถือ; และยังหมายถึงความสับสนของศัตรู การขัดขวาง ความยังไม่เติบโตเต็มที่"
+]
+},
+"major-5": {
+"waiteTitle": "The Hierophant",
+"kw": [
+"การแต่งงาน",
+"พันธมิตร",
+"การพึ่งพิง"
+],
+"up": [
+"Marriage, alliance, captivity, servitude; by another account, mercy and goodness; inspiration; the man to whom the Querent has recourse.",
+"การแต่งงาน พันธมิตร การถูกกักขัง ความเป็นข้ารับใช้; ตามอีกตำราหนึ่ง คือความเมตตาและความดี; แรงบันดาลใจ; บุรุษที่ผู้ถามไปขอพึ่งพา"
+],
+"rev": [
+"Society, good understanding, concord, over-kindness, weakness.",
+"สังคม ความเข้าใจอันดี ความปรองดอง ความใจดีเกินไป ความอ่อนแอ"
+]
+},
+"major-6": {
+"waiteTitle": "The Lovers",
+"kw": [
+"แรงดึงดูด",
+"ความรัก",
+"ความงาม"
+],
+"up": [
+"Attraction, love, beauty, trials overcome.",
+"แรงดึงดูด ความรัก ความงาม การผ่านพ้นบททดสอบ"
+],
+"rev": [
+"Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds.",
+"ความล้มเหลว แผนการโง่เขลา อีกตำราหนึ่งกล่าวถึงการแต่งงานที่ถูกขัดขวาง และความขัดแย้งทุกรูปแบบ"
+]
+},
+"major-7": {
+"waiteTitle": "The Chariot",
+"kw": [
+"ความช่วยเหลือ",
+"ชัยชนะ",
+"สงคราม"
+],
+"up": [
+"Succour, providence; also war, triumph, presumption, vengeance, trouble.",
+"ความช่วยเหลือ การดูแลจากเบื้องบน; และยังหมายถึงสงคราม ชัยชนะ ความอวดดี การแก้แค้น ปัญหา"
+],
+"rev": [
+"Riot, quarrel, dispute, litigation, defeat.",
+"การจลาจล การทะเลาะ ข้อพิพาท การฟ้องร้อง ความพ่ายแพ้"
+]
+},
+"major-8": {
+"waiteTitle": "Fortitude",
+"kw": [
+"พลัง",
+"ความกล้าหาญ",
+"ความสำเร็จ"
+],
+"up": [
+"Power, energy, action, courage, magnanimity; also complete success and honours.",
+"พลัง พลังงาน การลงมือทำ ความกล้าหาญ ความใจกว้าง; และยังหมายถึงความสำเร็จอย่างสมบูรณ์และเกียรติยศ"
+],
+"rev": [
+"Despotism, abuse of power, weakness, discord, sometimes even disgrace.",
+"ความเผด็จการ การใช้อำนาจในทางที่ผิด ความอ่อนแอ ความไม่ลงรอย บางครั้งถึงขั้นเสื่อมเสียเกียรติ"
+]
+},
+"major-9": {
+"waiteTitle": "The Hermit",
+"kw": [
+"ความรอบคอบ",
+"ความระมัดระวัง",
+"การปิดบัง"
+],
+"up": [
+"Prudence, circumspection; also and especially treason, dissimulation, roguery, corruption.",
+"ความรอบคอบ ความระมัดระวัง; และยังหมายถึง โดยเฉพาะอย่างยิ่ง การทรยศ การเสแสร้ง ความฉ้อฉล ความเสื่อมทราม"
+],
+"rev": [
+"Concealment, disguise, policy, fear, unreasoned caution.",
+"การปกปิด การปลอมตัว เล่ห์กล ความกลัว ความระวังอย่างไร้เหตุผล"
+]
+},
+"major-10": {
+"waiteTitle": "Wheel of Fortune",
+"kw": [
+"โชคชะตา",
+"ความสำเร็จ",
+"โชคลาภ"
+],
+"up": [
+"Destiny, fortune, success, elevation, luck, felicity.",
+"ชะตากรรม โชคชะตา ความสำเร็จ การเลื่อนฐานะ โชคดี ความสุข"
+],
+"rev": [
+"Increase, abundance, superfluity.",
+"การเพิ่มพูน ความอุดมสมบูรณ์ ความเหลือเฟือ"
+]
+},
+"major-11": {
+"waiteTitle": "Justice",
+"kw": [
+"ความเที่ยงธรรม",
+"ความถูกต้อง",
+"ชนะคดี"
+],
+"up": [
+"Equity, rightness, probity, executive; triumph of the deserving side in law.",
+"ความเที่ยงธรรม ความถูกต้อง ความซื่อตรง อำนาจบริหาร; ฝ่ายที่สมควรได้รับชัยชนะในทางกฎหมาย"
+],
+"rev": [
+"Law in all its departments, legal complications, bigotry, bias, excessive severity.",
+"กฎหมายในทุกแขนง ความยุ่งยากทางกฎหมาย ความมีอคติ ความลำเอียง ความเข้มงวดเกินควร"
+]
+},
+"major-12": {
+"waiteTitle": "The Hanged Man",
+"kw": [
+"ปัญญา",
+"การเสียสละ",
+"การหยั่งรู้"
+],
+"up": [
+"Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.",
+"ปัญญา ความรอบคอบ การไตร่ตรอง บททดสอบ การเสียสละ สัญชาตญาณ การพยากรณ์ คำทำนาย"
+],
+"rev": [
+"Selfishness, the crowd, body politic.",
+"ความเห็นแก่ตัว ฝูงชน กลไกของรัฐและสังคม"
+]
+},
+"major-13": {
+"waiteTitle": "Death",
+"kw": [
+"จุดจบ",
+"ความตาย",
+"การทำลาย"
+],
+"up": [
+"End, mortality, destruction, corruption; also, for a man, the loss of a benefactor; for a woman, many contrarieties; for a maid, failure of marriage projects.",
+"จุดจบ ความตาย การทำลาย ความเสื่อมสลาย; และสำหรับชาย หมายถึงการสูญเสียผู้มีพระคุณ สำหรับหญิง หมายถึงความขัดแย้งมากมาย สำหรับหญิงสาว หมายถึงแผนการแต่งงานที่ล้มเหลว"
+],
+"rev": [
+"Inertia, sleep, lethargy, petrifaction, somnambulism; hope destroyed.",
+"ความเฉื่อยชา การหลับใหล ความซึมเซา การแข็งทื่อ การละเมอเดิน; ความหวังที่ถูกทำลาย"
+]
+},
+"major-14": {
+"waiteTitle": "Temperance",
+"kw": [
+"ความประหยัด",
+"ความพอประมาณ",
+"การจัดการ"
+],
+"up": [
+"Economy, moderation, frugality, management, accommodation.",
+"ความประหยัด ความพอประมาณ ความมัธยัสถ์ การบริหารจัดการ การปรับตัวประนีประนอม"
+],
+"rev": [
+"Things connected with churches, religions, sects, the priesthood, sometimes even the priest who will marry the Querent; also disunion, unfortunate combinations, competing interests.",
+"เรื่องที่เกี่ยวกับโบสถ์ ศาสนา นิกาย นักบวช บางครั้งถึงขั้นนักบวชที่จะประกอบพิธีแต่งงานให้ผู้ถาม; และยังหมายถึงความแตกแยก การรวมกันที่โชคร้าย ผลประโยชน์ที่ขัดกัน"
+]
+},
+"major-15": {
+"waiteTitle": "The Devil",
+"kw": [
+"ความรุนแรง",
+"ความพยายามอย่างยิ่ง",
+"ลิขิต"
+],
+"up": [
+"Ravage, violence, vehemence, extraordinary efforts, force, fatality; that which is predestined but is not for this reason evil.",
+"การทำลายล้าง ความรุนแรง ความเร่าร้อน ความพยายามอย่างผิดธรรมดา พลัง ลิขิตชะตา; สิ่งที่ถูกกำหนดไว้แล้ว แต่ไม่ได้หมายความว่าเป็นสิ่งชั่วร้าย"
+],
+"rev": [
+"Evil fatality, weakness, pettiness, blindness.",
+"ชะตาร้าย ความอ่อนแอ ความใจแคบ ความมืดบอด"
+]
+},
+"major-16": {
+"waiteTitle": "The Tower",
+"kw": [
+"หายนะไม่คาดฝัน",
+"ความทุกข์ยาก",
+"ความพินาศ"
+],
+"up": [
+"Misery, distress, indigence, adversity, calamity, disgrace, deception, ruin. It is a card in particular of unforeseen catastrophe.",
+"ความทุกข์ระทม ความเดือดร้อน ความยากจน ความลำบาก ภัยพิบัติ ความอัปยศ การหลอกลวง ความพินาศ เป็นไพ่ของหายนะที่ไม่คาดฝันโดยเฉพาะ"
+],
+"rev": [
+"According to one account, the same in a lesser degree; also oppression, imprisonment, tyranny.",
+"ตามตำราหนึ่ง คือเรื่องเดียวกันแต่เบาบางกว่า; และยังหมายถึงการถูกกดขี่ การถูกจองจำ ความเผด็จการ"
+]
+},
+"major-17": {
+"waiteTitle": "The Star",
+"kw": [
+"ความสูญเสีย",
+"ความหวัง",
+"อนาคตสดใส"
+],
+"up": [
+"Loss, theft, privation, abandonment; another reading says—hope and bright prospects,",
+"ความสูญเสีย การถูกขโมย ความขาดแคลน การถูกทอดทิ้ง; อีกตำราหนึ่งกล่าวว่า คือความหวังและอนาคตที่สดใส"
+],
+"rev": [
+"Arrogance, haughtiness, impotence.",
+"ความหยิ่งยโส ความถือตัว ความไร้พลัง"
+]
+},
+"major-18": {
+"waiteTitle": "The Moon",
+"kw": [
+"ศัตรูที่ซ่อนอยู่",
+"อันตราย",
+"การหลอกลวง"
+],
+"up": [
+"Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error.",
+"ศัตรูที่ซ่อนเร้น อันตราย การใส่ร้าย ความมืดมน ความหวาดกลัว การหลอกลวง พลังลึกลับ ความผิดพลาด"
+],
+"rev": [
+"Instability, inconstancy, silence, lesser degrees of deception and error.",
+"ความไม่มั่นคง ความไม่แน่นอน ความเงียบ การหลอกลวงและความผิดพลาดในระดับที่เบาลง"
+]
+},
+"major-19": {
+"waiteTitle": "The Sun",
+"kw": [
+"ความสุขทางโลก",
+"การแต่งงานที่โชคดี",
+"ความพอใจ"
+],
+"up": [
+"Material happiness, fortunate marriage, contentment.",
+"ความสุขทางวัตถุ การแต่งงานที่โชคดี ความพึงพอใจ"
+],
+"rev": [
+"The same in a lesser sense.",
+"เช่นเดียวกัน แต่ในระดับที่น้อยกว่า"
+]
+},
+"major-20": {
+"waiteTitle": "The Last Judgment",
+"kw": [
+"การเปลี่ยนสถานะ",
+"การเริ่มใหม่",
+"ผลลัพธ์"
+],
+"up": [
+"Change of position, renewal, outcome. Another account specifies total loss though lawsuit.",
+"การเปลี่ยนตำแหน่งฐานะ การฟื้นฟูเริ่มใหม่ ผลลัพธ์; อีกตำราหนึ่งระบุว่าคือการสูญเสียทั้งหมดจากการฟ้องร้อง"
+],
+"rev": [
+"Weakness, pusillanimity, simplicity; also deliberation, decision, sentence.",
+"ความอ่อนแอ ความขลาด ความไร้เดียงสา; และยังหมายถึงการพิจารณาไตร่ตรอง การตัดสินใจ คำพิพากษา"
+]
+},
+"major-0": {
+"waiteTitle": "The Fool",
+"kw": [
+"ความเขลา",
+"ความบ้าคลั่ง",
+"ความฟุ่มเฟือย"
+],
+"up": [
+"Folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment.",
+"ความเขลา ความบ้าคลั่ง ความฟุ่มเฟือย ความมึนเมา อาการเพ้อคลั่ง ความคลุ้มคลั่ง การเปิดเผยความลับ"
+],
+"rev": [
+"Negligence, absence, distribution, carelessness, apathy, nullity, vanity.",
+"ความประมาท การไม่อยู่ การแจกจ่าย ความสะเพร่า ความเฉยชา ความว่างเปล่าไร้ผล ความหยิ่งทะนงที่ไร้ค่า"
+]
+},
+"major-21": {
+"waiteTitle": "The World",
+"kw": [
+"ความสำเร็จแน่นอน",
+"รางวัล",
+"การเดินทาง"
+],
+"up": [
+"Assured success, recompense, voyage, route, emigration, flight, change of place.",
+"ความสำเร็จที่แน่นอน ผลตอบแทน การเดินทางไกล เส้นทาง การย้ายถิ่น การหลบหนี การเปลี่ยนที่อยู่"
+],
+"rev": [
+"Inertia, fixity, stagnation, permanence.",
+"ความเฉื่อย ความหยุดนิ่ง ความชะงักงัน ความคงที่ถาวร"
+]
+},
+"wands-14": {
+"kw": [
+"ความซื่อสัตย์",
+"ชายผู้มีคุณธรรม",
+"มรดกไม่คาดคิด"
+],
+"up": [
+"Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.",
+"ชายผิวคล้ำ เป็นมิตร ชาวชนบท มักแต่งงานแล้ว ซื่อสัตย์และมีมโนธรรม ไพ่นี้หมายถึงความซื่อสัตย์เสมอ และอาจหมายถึงข่าวเรื่องมรดกที่ไม่คาดคิดซึ่งจะได้รับในไม่ช้า"
+],
+"rev": [
+"Good, but severe; austere, yet tolerant.",
+"ดี แต่เข้มงวด เคร่งขรึม แต่ก็อดกลั้น"
+],
+"addUp": [
+"Generally favourable; may signify a good marriage.",
+"โดยทั่วไปเป็นไพ่ดี อาจหมายถึงการแต่งงานที่ดี"
+],
+"addRev": [
+"Advice that should be followed.",
+"คำแนะนำที่ควรทำตาม"
+]
+},
+"wands-13": {
+"kw": [
+"หญิงผู้เป็นมิตร",
+"ความรัก",
+"ความสำเร็จทางธุรกิจ"
+],
+"up": [
+"A dark woman, countrywoman, friendly, chaste, loving, honourable. If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money, or a certain success in business.",
+"หญิงผิวคล้ำ หญิงชนบท เป็นมิตร บริสุทธิ์ มีความรัก มีเกียรติ หากไพ่ข้างนางหมายถึงชาย นางมีใจดีต่อเขา หากเป็นหญิง นางสนใจในตัวผู้ถาม และยังหมายถึงความรักในเงินทอง หรือความสำเร็จบางอย่างในธุรกิจ"
+],
+"rev": [
+"Good, economical, obliging, serviceable. Signifies also—but in certain positions and in the neighbourhood of other cards tending in such directions—opposition, jealousy, even deceit and infidelity.",
+"ดี ประหยัด ใจดี มีประโยชน์ แต่ในบางตำแหน่งและเมื่ออยู่ใกล้ไพ่ที่ชี้ไปทางนั้น ยังหมายถึงการต่อต้าน ความอิจฉา หรือแม้แต่การหลอกลวงและการนอกใจ"
+],
+"addUp": [
+"A good harvest, which may be taken in several senses.",
+"การเก็บเกี่ยวที่ดี ซึ่งตีความได้หลายแง่"
+],
+"addRev": [
+"Good-will towards the Querent, but without the opportunity to exercise it.",
+"มีเจตนาดีต่อผู้ถาม แต่ไม่มีโอกาสได้แสดงออก"
+]
+},
+"wands-12": {
+"kw": [
+"การจากไป",
+"การย้ายถิ่น",
+"การเปลี่ยนที่อยู่"
+],
+"up": [
+"Departure, absence, flight, emigration. A dark young man, friendly. Change of residence.",
+"การจากไป การไม่อยู่ การหลบหนี การย้ายถิ่น ชายหนุ่มผิวคล้ำที่เป็นมิตร การเปลี่ยนที่อยู่อาศัย"
+],
+"rev": [
+"Rupture, division, interruption, discord.",
+"การแตกหัก การแบ่งแยก การหยุดชะงัก ความไม่ลงรอย"
+],
+"addUp": [
+"A bad card; according to some readings, alienation.",
+"ไพ่ไม่ดี ตามบางตำราคือความห่างเหิน"
+],
+"addRev": [
+"For a woman, marriage, but probably frustrated.",
+"สำหรับหญิง คือการแต่งงาน แต่อาจถูกขัดขวาง"
+]
+},
+"wands-11": {
+"kw": [
+"ชายหนุ่มผู้ซื่อสัตย์",
+"ผู้ส่งสาร",
+"ข่าวครอบครัว"
+],
+"up": [
+"Dark young man, faithful, a lover, an envoy, a postman. Beside a man, he will bear favourable testimony concerning him. A dangerous rival, if followed by the Page of Cups. Has the chief qualities of his suit. He may signify family intelligence.",
+"ชายหนุ่มผิวคล้ำ ผู้ซื่อสัตย์ คนรัก ผู้แทน บุรุษไปรษณีย์ หากอยู่ข้างไพ่ชาย เขาจะเป็นพยานในทางที่ดีให้ชายผู้นั้น เป็นคู่แข่งที่อันตรายหากตามด้วยเพจถ้วย มีคุณลักษณะหลักของชุดไพ่ อาจหมายถึงข่าวสารในครอบครัว"
+],
+"rev": [
+"Anecdotes, announcements, evil news. Also indecision and the instability which accompanies it.",
+"เรื่องเล่า การประกาศ ข่าวร้าย และยังหมายถึงความลังเลและความไม่มั่นคงที่ตามมา"
+],
+"addUp": [
+"Young man of family in search of young lady.",
+"ชายหนุ่มจากครอบครัวดีที่กำลังตามหาหญิงสาว"
+],
+"addRev": [
+"Bad news.",
+"ข่าวร้าย"
+]
+},
+"wands-10": {
+"kw": [
+"การกดขี่",
+"ความสำเร็จที่กดทับ",
+"การหลอกลวง"
+],
+"up": [
+"A card of many significances, and some of the readings cannot be harmonized. I set aside that which connects it with honour and good faith. The chief meaning is oppression simply, but it is also fortune, gain, any kind of success, and then it is the oppression of these things. It is also a card of false-seeming, disguise, perfidy. The place which the figure is approaching may suffer from the rods that he carries. Success is stultified if the Nine of Swords follows, and if it is a question of a lawsuit, there will be certain loss.",
+"ไพ่ที่มีความหมายหลายอย่าง และบางความหมายไม่อาจประสานกันได้ ข้าพเจ้าขอละความหมายที่เกี่ยวกับเกียรติและความซื่อสัตย์ ความหมายหลักคือการกดขี่ แต่ก็หมายถึงโชคลาภ ผลกำไร ความสำเร็จทุกรูปแบบ แล้วก็คือการถูกกดทับด้วยสิ่งเหล่านั้น และยังเป็นไพ่แห่งการเสแสร้ง การปลอมแปลง การทรยศ สถานที่ที่ชายผู้นั้นกำลังมุ่งไปอาจได้รับความเดือดร้อนจากไม้เท้าที่เขาแบก ความสำเร็จจะไร้ผลหากตามด้วยเก้าดาบ และหากเป็นเรื่องคดีความ จะสูญเสียแน่นอน"
+],
+"rev": [
+"Contrarieties, difficulties, intrigues, and their analogies.",
+"ความขัดแย้ง ความยากลำบาก แผนร้าย และสิ่งที่คล้ายคลึงกัน"
+],
+"addUp": [
+"Difficulties and contradictions, if near a good card.",
+"ความยากลำบากและความขัดแย้ง หากอยู่ใกล้ไพ่ดี"
+]
+},
+"wands-9": {
+"kw": [
+"ความแข็งแกร่งในการต้านทาน",
+"ความล่าช้า",
+"การเลื่อนออกไป"
+],
+"up": [
+"The card signifies strength in opposition. If attacked, the person will meet an onslaught boldly; and his build shews that he may prove a formidable antagonist. With this main significance there are all its possible adjuncts—delay, suspension, adjournment.",
+"ไพ่หมายถึงความแข็งแกร่งในการต่อต้าน หากถูกโจมตี บุคคลนั้นจะเผชิญอย่างกล้าหาญ และรูปร่างของเขาบอกว่าอาจเป็นคู่ต่อสู้ที่น่าเกรงขาม พร้อมกับความหมายหลักนี้ยังมีความหมายประกอบ คือความล่าช้า การระงับ การเลื่อนออกไป"
+],
+"rev": [
+"Obstacles, adversity, calamity.",
+"อุปสรรค ความยากลำบาก ภัยพิบัติ"
+],
+"addUp": [
+"Generally speaking, a bad card.",
+"โดยทั่วไปถือเป็นไพ่ไม่ดี"
+]
+},
+"wands-8": {
+"kw": [
+"ความรวดเร็ว",
+"ความหวังยิ่งใหญ่",
+"ลูกศรแห่งความรัก"
+],
+"up": [
+"Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; generally, that which is on the move; also the arrows of love.",
+"ความเคลื่อนไหวในกิจการ เส้นทางของความเคลื่อนไหวนั้น ความรวดเร็วดุจผู้ส่งสารด่วน ความเร่งรีบอย่างมาก ความหวังอันยิ่งใหญ่ การมุ่งสู่จุดหมายที่สัญญาว่าจะนำความสุขมาแน่นอน; โดยทั่วไปคือสิ่งที่กำลังเคลื่อนไหว; และยังหมายถึงลูกศรแห่งความรัก"
+],
+"rev": [
+"Arrows of jealousy, internal dispute, stingings of conscience, quarrels; and domestic disputes for persons who are married.",
+"ลูกศรแห่งความหึงหวง ความขัดแย้งภายใน ความรู้สึกผิดที่ทิ่มแทงใจ การทะเลาะ; และการทะเลาะในบ้านสำหรับผู้ที่แต่งงานแล้ว"
+],
+"addUp": [
+"Domestic disputes for a married person.",
+"การทะเลาะในบ้านสำหรับผู้ที่แต่งงานแล้ว"
+]
+},
+"wands-7": {
+"kw": [
+"ความกล้าหาญ",
+"การเจรจา",
+"ความได้เปรียบ"
+],
+"up": [
+"It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business—negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him.",
+"เป็นไพ่แห่งความกล้าหาญ เพราะเมื่อมองผิวเผิน หกคนกำลังรุมโจมตีคนเดียว แต่เขาอยู่ในตำแหน่งที่ได้เปรียบ ในระดับความคิดหมายถึงการถกเถียง การต่อสู้ด้วยวาจา ในทางธุรกิจคือการเจรจา สงครามการค้า การแลกเปลี่ยน การแข่งขัน และยังเป็นไพ่แห่งความสำเร็จ เพราะนักสู้อยู่ด้านบนและศัตรูอาจเอื้อมไม่ถึง"
+],
+"rev": [
+"Perplexity, embarrassments, anxiety. It is also a caution against indecision.",
+"ความงุนงง ความลำบากใจ ความวิตกกังวล และยังเป็นคำเตือนให้ระวังความลังเลไม่เด็ดขาด"
+],
+"addUp": [
+"A dark child.",
+"เด็กผิวคล้ำ"
+]
+},
+"wands-6": {
+"kw": [
+"ชัยชนะ",
+"ข่าวดี",
+"ความหวังที่สมปรารถนา"
+],
+"up": [
+"The card has been so designed that it can cover several significations; on the surface, it is a victor triumphing, but it is also great news, such as might be carried in state by the King's courier; it is expectation crowned with its own desire, the crown of hope, and so forth.",
+"ไพ่ถูกออกแบบให้มีความหมายได้หลายอย่าง เมื่อมองผิวเผินคือผู้ชนะที่กำลังฉลองชัย แต่ก็หมายถึงข่าวสำคัญ เช่นข่าวที่ผู้ส่งสารของกษัตริย์นำมาอย่างเป็นพิธีการ คือความคาดหวังที่ได้รับการเติมเต็มตามปรารถนา มงกุฎแห่งความหวัง และอื่น ๆ"
+],
+"rev": [
+"Apprehension, fear, as of a victorious enemy at the gate; treachery, disloyalty, as of gates being opened to the enemy; also indefinite delay.",
+"ความหวาดหวั่น ความกลัว ดุจศัตรูผู้ชนะมาประชิดประตู; การทรยศ ความไม่ซื่อสัตย์ ดุจประตูที่ถูกเปิดให้ศัตรู; และยังหมายถึงความล่าช้าอย่างไม่มีกำหนด"
+],
+"addUp": [
+"Servants may lose the confidence of their masters; a young lady may be betrayed by a friend.",
+"คนรับใช้อาจสูญเสียความไว้วางใจจากนาย หญิงสาวอาจถูกเพื่อนทรยศ"
+],
+"addRev": [
+"Fulfilment of deferred hope.",
+"ความหวังที่ถูกเลื่อนออกไปจะสมปรารถนา"
+]
+},
+"wands-5": {
+"kw": [
+"การแข่งขัน",
+"การต่อสู้",
+"ความร่ำรวย"
+],
+"up": [
+"Imitation, as, for example, sham fight, but also the strenuous competition and struggle of the search after riches and fortune. In this sense it connects with the battle of life. Hence some attributions say that it is a card of gold, gain, opulence.",
+"การเลียนแบบ เช่น การต่อสู้จำลอง แต่ก็หมายถึงการแข่งขันและการดิ้นรนอย่างหนักเพื่อแสวงหาความร่ำรวยและโชคลาภ ในแง่นี้เชื่อมโยงกับการต่อสู้ของชีวิต ดังนั้นบางตำราจึงถือว่าเป็นไพ่แห่งทองคำ ผลกำไร และความมั่งคั่ง"
+],
+"rev": [
+"Litigation, disputes, trickery, contradiction.",
+"การฟ้องร้อง ข้อพิพาท กลโกง ความขัดแย้ง"
+],
+"addUp": [
+"Success in financial speculation.",
+"ความสำเร็จในการเก็งกำไรทางการเงิน"
+],
+"addRev": [
+"Quarrels may be turned to advantage.",
+"การทะเลาะอาจพลิกกลับมาเป็นประโยชน์ได้"
+]
+},
+"wands-4": {
+"kw": [
+"ชีวิตชนบท",
+"ความสงบสุข",
+"ความรุ่งเรือง"
+],
+"up": [
+"They are for once almost on the surface—country life, haven of refuge, a species of domestic harvest-home, repose, concord, harmony, prosperity, peace, and the perfected work of these.",
+"ความหมายเกือบจะปรากฏบนผิวหน้าของภาพ ชีวิตชนบท ที่พักพิง งานเฉลิมฉลองการเก็บเกี่ยวในบ้าน การพักผ่อน ความปรองดอง ความกลมเกลียว ความรุ่งเรือง สันติสุข และผลงานที่สมบูรณ์ของสิ่งเหล่านี้"
+],
+"rev": [
+"The meaning remains unaltered; it is prosperity, increase, felicity, beauty, embellishment.",
+"ความหมายยังคงเดิม คือความรุ่งเรือง การเพิ่มพูน ความสุข ความงาม การประดับประดา"
+],
+"addUp": [
+"Unexpected good fortune.",
+"โชคดีที่ไม่คาดคิด"
+],
+"addRev": [
+"A married woman will have beautiful children.",
+"หญิงที่แต่งงานแล้วจะมีบุตรที่งดงาม"
+]
+},
+"wands-3": {
+"kw": [
+"ความแข็งแกร่ง",
+"การค้า",
+"ความร่วมมือ"
+],
+"up": [
+"He symbolizes established strength, enterprise, effort, trade, commerce, discovery; those are his ships, bearing his merchandise, which are sailing over the sea. The card also signifies able co-operation in business, as if the successful merchant prince were looking from his side towards yours with a view to help you.",
+"เขาเป็นสัญลักษณ์ของความแข็งแกร่งที่มั่นคงแล้ว กิจการ ความพยายาม การค้า พาณิชย์ การค้นพบ เรือเหล่านั้นคือเรือของเขาที่บรรทุกสินค้าแล่นข้ามทะเล ไพ่ยังหมายถึงความร่วมมือทางธุรกิจที่มีความสามารถ ราวกับพ่อค้าผู้ประสบความสำเร็จหันมามองทางคุณเพื่อจะช่วยเหลือ"
+],
+"rev": [
+"The end of troubles, suspension or cessation of adversity, toil and disappointment.",
+"จุดสิ้นสุดของปัญหา การหยุดหรือยุติของความลำบาก งานหนัก และความผิดหวัง"
+],
+"addUp": [
+"A very good card; collaboration will favour enterprise.",
+"ไพ่ที่ดีมาก ความร่วมมือจะเอื้อต่อกิจการ"
+]
+},
+"wands-2": {
+"kw": [
+"ความร่ำรวย",
+"ความทุกข์ใจ",
+"ความยิ่งใหญ่"
+],
+"up": [
+"Between the alternative readings there is no marriage possible; on the one hand, riches, fortune, magnificence; on the other, physical suffering, disease, chagrin, sadness, mortification. The design gives one suggestion; here is a lord overlooking his dominion and alternately contemplating a globe; it looks like the malady, the mortification, the sadness of Alexander amidst the grandeur of this world's wealth.",
+"ระหว่างความหมายสองทางนี้ไม่อาจประสานกันได้ ด้านหนึ่งคือความร่ำรวย โชคลาภ ความยิ่งใหญ่ อีกด้านคือความทุกข์ทางกาย โรคภัย ความขุ่นเคือง ความเศร้า ความอับอาย ภาพบนไพ่ให้ข้อแนะอย่างหนึ่ง คือเจ้านายผู้มองดูอาณาเขตของตนและสลับกับพินิจลูกโลก ดุจความทุกข์ ความอับอาย และความเศร้าของอเล็กซานเดอร์ท่ามกลางความยิ่งใหญ่แห่งทรัพย์สมบัติของโลกนี้"
+],
+"rev": [
+"Surprise, wonder, enchantment, emotion, trouble, fear.",
+"ความประหลาดใจ ความอัศจรรย์ใจ ความหลงใหล อารมณ์ความรู้สึก ความวุ่นวายใจ ความกลัว"
+],
+"addUp": [
+"A young lady may expect trivial disappointments.",
+"หญิงสาวอาจพบความผิดหวังเล็ก ๆ น้อย ๆ"
+]
+},
+"wands-1": {
+"kw": [
+"การสร้างสรรค์",
+"จุดเริ่มต้น",
+"กำเนิด"
+],
+"up": [
+"Creation, invention, enterprise, the powers which result in these; principle, beginning, source; birth, family, origin, and in a sense the virility which is behind them; the starting point of enterprises; according to another account, money, fortune, inheritance.",
+"การสร้างสรรค์ การประดิษฐ์คิดค้น กิจการ และพลังที่ก่อให้เกิดสิ่งเหล่านี้; หลักการ จุดเริ่มต้น ต้นกำเนิด; การเกิด ครอบครัว ที่มา และในอีกแง่คือพลังแห่งความเป็นชายที่อยู่เบื้องหลัง; จุดเริ่มต้นของกิจการ; ตามอีกตำราหนึ่ง คือเงินทอง โชคลาภ มรดก"
+],
+"rev": [
+"Fall, decadence, ruin, perdition, to perish; also a certain clouded joy.",
+"การตกต่ำ ความเสื่อม ความพินาศ ความหายนะ การดับสูญ; และยังหมายถึงความยินดีที่ถูกบดบังอยู่บ้าง"
+],
+"addUp": [
+"Calamities of all kinds.",
+"ภัยพิบัติทุกรูปแบบ"
+],
+"addRev": [
+"A sign of birth.",
+"สัญญาณของการเกิด"
+]
+},
+"cups-14": {
+"kw": [
+"ชายผู้มีความรับผิดชอบ",
+"ความเที่ยงธรรม",
+"ปัญญาสร้างสรรค์"
+],
+"up": [
+"Fair man, man of business, law, or divinity; responsible, disposed to oblige the Querent; also equity, art and science, including those who profess science, law and art; creative intelligence.",
+"ชายผิวขาว นักธุรกิจ นักกฎหมาย หรือนักบวช มีความรับผิดชอบ พร้อมจะช่วยเหลือผู้ถาม และยังหมายถึงความเที่ยงธรรม ศิลปะและวิทยาการ รวมถึงผู้ประกอบวิชาชีพด้านวิทยาศาสตร์ กฎหมาย และศิลปะ ปัญญาสร้างสรรค์"
+],
+"rev": [
+"Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss.",
+"ชายไม่ซื่อสัตย์ หลอกลวงสองหน้า ความฉ้อฉล การรีดไถ ความอยุติธรรม ความชั่วร้าย เรื่องอื้อฉาว การปล้นสะดม ความสูญเสียอย่างมาก"
+],
+"addUp": [
+"Beware of ill-will on the part of a man of position, and of hypocrisy pretending to help.",
+"ระวังความมุ่งร้ายจากผู้มีตำแหน่ง และความเสแสร้งที่ทำทีเป็นช่วยเหลือ"
+],
+"addRev": [
+"Loss.",
+"ความสูญเสีย"
+]
+},
+"cups-13": {
+"kw": [
+"หญิงผู้ทุ่มเท",
+"การหยั่งรู้",
+"ความสุข"
+],
+"up": [
+"Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and a good mother.",
+"หญิงดี ผิวขาว หญิงผู้ซื่อสัตย์และทุ่มเท ผู้จะช่วยเหลือผู้ถาม มีปัญญาอันเปี่ยมด้วยความรัก จึงมีพรสวรรค์แห่งการหยั่งรู้ ความสำเร็จ ความสุข ความเพลิดเพลิน และยังหมายถึงปัญญา คุณธรรม คู่ครองที่สมบูรณ์แบบและมารดาที่ดี"
+],
+"rev": [
+"The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonour, depravity.",
+"คำบอกเล่าแตกต่างกันไป หญิงดี หรือหญิงผู้มีชื่อเสียงแต่ไม่น่าไว้ใจ หญิงที่มีจิตใจวิปริต ความชั่วร้าย ความอัปยศ ความเสื่อมทราม"
+],
+"addUp": [
+"Sometimes denotes a woman of equivocal character.",
+"บางครั้งหมายถึงหญิงที่มีอุปนิสัยไม่น่าไว้วางใจ"
+],
+"addRev": [
+"A rich marriage for a man and a distinguished one for a woman.",
+"การแต่งงานที่ร่ำรวยสำหรับชาย และการแต่งงานที่มีเกียรติสำหรับหญิง"
+]
+},
+"cups-12": {
+"kw": [
+"การมาถึง",
+"ข้อเสนอ",
+"คำเชิญ"
+],
+"up": [
+"Arrival, approach—sometimes that of a messenger; advances, proposition, demeanour, invitation, incitement.",
+"การมาถึง การเข้ามาใกล้ บางครั้งคือการมาถึงของผู้ส่งสาร การรุกเข้าหา ข้อเสนอ ท่าที คำเชิญ การกระตุ้น"
+],
+"rev": [
+"Trickery, artifice, subtlety, swindling, duplicity, fraud.",
+"กลโกง เล่ห์เหลี่ยม ความแยบยล การต้มตุ๋น ความตลบตะแลง การฉ้อโกง"
+],
+"addUp": [
+"A visit from a friend, who will bring unexpected money to the Querent.",
+"การมาเยือนของเพื่อน ผู้จะนำเงินที่ไม่คาดคิดมาให้ผู้ถาม"
+],
+"addRev": [
+"Irregularity.",
+"ความไม่สม่ำเสมอ"
+]
+},
+"cups-11": {
+"kw": [
+"ชายหนุ่มผู้ใฝ่รู้",
+"ข่าวสาร",
+"การไตร่ตรอง"
+],
+"up": [
+"Fair young man, one impelled to render service and with whom the Querent will be connected; a studious youth; news, message; application, reflection, meditation; also these things directed to business.",
+"ชายหนุ่มผิวขาว ผู้ที่ถูกผลักดันให้ช่วยเหลือและจะเกี่ยวข้องกับผู้ถาม ชายหนุ่มผู้ใฝ่เรียน ข่าวสาร ข้อความ ความตั้งใจ การไตร่ตรอง การเพ่งพินิจ และสิ่งเหล่านี้ที่มุ่งไปในทางธุรกิจ"
+],
+"rev": [
+"Taste, inclination, attachment, seduction, deception, artifice.",
+"รสนิยม ความโน้มเอียง ความผูกพัน การล่อลวง การหลอกลวง เล่ห์กล"
+],
+"addUp": [
+"Good augury; also a young man who is unfortunate in love.",
+"ลางดี และยังหมายถึงชายหนุ่มที่โชคร้ายในความรัก"
+],
+"addRev": [
+"Obstacles of all kinds.",
+"อุปสรรคทุกรูปแบบ"
+]
+},
+"cups-10": {
+"kw": [
+"ความสงบแห่งหัวใจ",
+"ความรักที่สมบูรณ์",
+"บ้านเกิด"
+],
+"up": [
+"Contentment, repose of the entire heart; the perfection of that state; also perfection of human love and friendship; if with several picture-cards, a person who is taking charge of the Querent's interests; also the town, village or country inhabited by the Querent.",
+"ความพอใจ ความสงบของหัวใจทั้งดวง ความสมบูรณ์แห่งสภาวะนั้น และยังหมายถึงความสมบูรณ์แห่งความรักและมิตรภาพของมนุษย์ หากมาพร้อมไพ่ภาพบุคคลหลายใบ คือบุคคลที่ดูแลผลประโยชน์ของผู้ถาม และยังหมายถึงเมือง หมู่บ้าน หรือประเทศที่ผู้ถามอาศัยอยู่"
+],
+"rev": [
+"Repose of the false heart, indignation, violence.",
+"ความสงบของหัวใจจอมปลอม ความขุ่นเคือง ความรุนแรง"
+],
+"addUp": [
+"For a male Querent, a good marriage and one beyond his expectations.",
+"สำหรับผู้ถามที่เป็นชาย คือการแต่งงานที่ดีและดีเกินกว่าที่คาดไว้"
+],
+"addRev": [
+"Sorrow; also a serious quarrel.",
+"ความเศร้าโศก และยังหมายถึงการทะเลาะร้ายแรง"
+]
+},
+"cups-9": {
+"kw": [
+"ความพอใจ",
+"ชัยชนะ",
+"ความสมปรารถนา"
+],
+"up": [
+"Concord, contentment, physical bien-être; also victory, success, advantage; satisfaction for the Querent or person for whom the consultation is made.",
+"ความปรองดอง ความพอใจ ความสบายทางกาย และยังหมายถึงชัยชนะ ความสำเร็จ ความได้เปรียบ ความพึงพอใจสำหรับผู้ถามหรือบุคคลที่ถูกถามถึง"
+],
+"rev": [
+"Truth, loyalty, liberty; but the readings vary and include mistakes, imperfections, etc.",
+"ความจริง ความซื่อสัตย์ อิสรภาพ แต่ความหมายแตกต่างกันไป และรวมถึงความผิดพลาด ความไม่สมบูรณ์ ฯลฯ"
+],
+"addUp": [
+"Of good augury for military men.",
+"ลางดีสำหรับทหาร"
+],
+"addRev": [
+"Good business.",
+"ธุรกิจที่ดี"
+]
+},
+"cups-8": {
+"kw": [
+"ความเสื่อมถอยของเรื่อง",
+"เรื่องที่ไม่สำคัญอย่างที่คิด",
+"ความถ่อมตน"
+],
+"up": [
+"The card speaks for itself on the surface, but other readings are entirely antithetical—giving joy, mildness, timidity, honour, modesty. In practice, it is usually found that the card shews the decline of a matter, or that a matter which has been thought to be important is really of slight consequence—either for good or evil.",
+"ไพ่พูดถึงตัวเองได้ชัดเจนเมื่อมองผิวเผิน แต่ความหมายอื่นกลับตรงข้ามโดยสิ้นเชิง คือความปีติ ความอ่อนโยน ความขี้อาย เกียรติ ความถ่อมตน ในทางปฏิบัติมักพบว่าไพ่นี้แสดงถึงความเสื่อมถอยของเรื่องหนึ่ง หรือเรื่องที่เคยคิดว่าสำคัญแท้จริงแล้วมีผลเพียงเล็กน้อย ไม่ว่าจะในทางดีหรือร้าย"
+],
+"rev": [
+"Great joy, happiness, feasting.",
+"ความปีติยิ่ง ความสุข งานเลี้ยงฉลอง"
+],
+"addUp": [
+"Marriage with a fair woman.",
+"การแต่งงานกับหญิงผิวขาว"
+],
+"addRev": [
+"Perfect satisfaction.",
+"ความพอใจอย่างสมบูรณ์"
+]
+},
+"cups-7": {
+"kw": [
+"จินตนาการ",
+"ภาพสะท้อน",
+"สิ่งไม่จีรัง"
+],
+"up": [
+"Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.",
+"ความโปรดปรานจากภูติ ภาพสะท้อน อารมณ์ความรู้สึก จินตนาการ สิ่งที่เห็นในกระจกแห่งการเพ่งพินิจ ได้บรรลุบางอย่างในระดับนี้ แต่ไม่มีสิ่งใดที่ถาวรหรือมีแก่นสาร"
+],
+"rev": [
+"Desire, will, determination, project.",
+"ความปรารถนา เจตจำนง ความมุ่งมั่น โครงการ"
+],
+"addUp": [
+"Fair child; idea, design, resolve, movement.",
+"เด็กผิวขาว ความคิด แบบแผน ความตั้งใจแน่วแน่ การเคลื่อนไหว"
+],
+"addRev": [
+"Success, if accompanied by the Three of Cups.",
+"ความสำเร็จ หากมาพร้อมกับสามถ้วย"
+]
+},
+"cups-6": {
+"kw": [
+"ความทรงจำ",
+"อดีต",
+"วัยเด็ก"
+],
+"up": [
+"A card of the past and of memories, looking back, as—for example—on childhood; happiness, enjoyment, but coming rather from the past; things that have vanished. Another reading reverses this, giving new relations, new knowledge, new environment, and then the children are disporting in an unfamiliar precinct.",
+"ไพ่แห่งอดีตและความทรงจำ การมองย้อนกลับไป เช่นมองย้อนไปถึงวัยเด็ก ความสุข ความเพลิดเพลิน แต่เป็นความสุขที่มาจากอดีต สิ่งที่หายไปแล้ว อีกตำราหนึ่งกลับความหมายนี้ เป็นความสัมพันธ์ใหม่ ความรู้ใหม่ สภาพแวดล้อมใหม่ แล้วเด็ก ๆ ก็กำลังเล่นอยู่ในพื้นที่ที่ไม่คุ้นเคย"
+],
+"rev": [
+"The future, renewal, that which will come to pass presently.",
+"อนาคต การฟื้นฟูใหม่ สิ่งที่จะเกิดขึ้นในไม่ช้า"
+],
+"addUp": [
+"Pleasant memories.",
+"ความทรงจำที่น่ายินดี"
+],
+"addRev": [
+"Inheritance to fall in quickly.",
+"มรดกที่จะได้รับในเร็ววัน"
+]
+},
+"cups-5": {
+"kw": [
+"ความสูญเสีย",
+"มรดก",
+"สิ่งที่ยังเหลืออยู่"
+],
+"up": [
+"It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration.",
+"เป็นไพ่แห่งความสูญเสีย แต่ยังมีบางสิ่งเหลืออยู่ สามถ้วยถูกเอาไป แต่ยังเหลือสอง เป็นไพ่แห่งมรดก ทรัพย์สินตกทอด การส่งต่อ แต่ไม่เป็นไปตามที่คาดหวัง ผู้ตีความบางคนถือเป็นไพ่แห่งการแต่งงาน แต่ไม่ปราศจากความขมขื่นหรือความผิดหวัง"
+],
+"rev": [
+"News, alliances, affinity, consanguinity, ancestry, return, false projects.",
+"ข่าวสาร พันธมิตร ความใกล้ชิด ความเป็นเครือญาติ บรรพบุรุษ การกลับมา แผนการที่ไม่จริง"
+],
+"addUp": [
+"Generally favourable; a happy marriage; also patrimony, legacies, gifts, success in enterprise.",
+"โดยทั่วไปเป็นไพ่ดี การแต่งงานที่มีความสุข และยังหมายถึงมรดก ของขวัญ ความสำเร็จในกิจการ"
+],
+"addRev": [
+"Return of some relative who has not been seen for long.",
+"การกลับมาของญาติที่ไม่ได้พบกันมานาน"
+]
+},
+"cups-4": {
+"kw": [
+"ความเบื่อหน่าย",
+"ความรังเกียจ",
+"ความขุ่นเคืองในจินตนาการ"
+],
+"up": [
+"Weariness, disgust, aversion, imaginary vexations, as if the wine of this world had caused satiety only; another wine, as if a fairy gift, is now offered the wastrel, but he sees no consolation therein. This is also a card of blended pleasure.",
+"ความเหนื่อยหน่าย ความรังเกียจ ความไม่ชอบ ความขุ่นเคืองที่คิดไปเอง ราวกับเหล้าองุ่นของโลกนี้ทำให้รู้สึกอิ่มเอียนเท่านั้น มีเหล้าองุ่นอีกจอกหนึ่งเหมือนของขวัญจากภูติยื่นมาให้คนสำมะเลเทเมา แต่เขาไม่เห็นความปลอบประโลมในนั้น และยังเป็นไพ่แห่งความสุขที่ปนเปกัน"
+],
+"rev": [
+"Novelty, presage, new instruction, new relations.",
+"สิ่งใหม่ ลางบอกเหตุ การเรียนรู้ใหม่ ความสัมพันธ์ใหม่"
+],
+"addUp": [
+"Contrarieties.",
+"ความขัดแย้ง"
+],
+"addRev": [
+"Presentiment.",
+"ลางสังหรณ์"
+]
+},
+"cups-3": {
+"kw": [
+"ความสมบูรณ์",
+"ชัยชนะ",
+"การเยียวยา"
+],
+"up": [
+"The conclusion of any matter in plenty, perfection and merriment; happy issue, victory, fulfilment, solace, healing.",
+"การสิ้นสุดของเรื่องใด ๆ อย่างอุดมสมบูรณ์ สมบูรณ์แบบ และรื่นเริง ผลลัพธ์ที่มีความสุข ชัยชนะ ความสมหวัง การปลอบประโลม การเยียวยา"
+],
+"rev": [
+"Expedition, dispatch, achievement, end. It signifies also the side of excess in physical enjoyment, and the pleasures of the senses.",
+"ความรวดเร็ว การจัดการให้เสร็จ ความสำเร็จ จุดจบ และยังหมายถึงด้านที่เกินพอดีของความเพลิดเพลินทางกายและความสุขทางประสาทสัมผัส"
+],
+"addUp": [
+"Unexpected advancement for military man.",
+"การเลื่อนตำแหน่งที่ไม่คาดคิดสำหรับทหาร"
+],
+"addRev": [
+"Consolation, cure. end of the business.",
+"การปลอบโยน การหายป่วย การจบสิ้นของเรื่อง"
+]
+},
+"cups-1": {
+"kw": [
+"หัวใจที่แท้จริง",
+"ความปีติ",
+"ความอุดมสมบูรณ์"
+],
+"up": [
+"House of the true heart, joy, content, abode, nourishment, abundance, fertility; Holy Table, felicity hereof.",
+"บ้านแห่งหัวใจที่แท้จริง ความปีติ ความพอใจ ที่พำนัก การหล่อเลี้ยง ความอุดมสมบูรณ์ ความเจริญงอกงาม; โต๊ะศักดิ์สิทธิ์ และความสุขที่มาจากสิ่งนั้น"
+],
+"rev": [
+"House of the false heart, mutation, instability, revolution.",
+"บ้านแห่งหัวใจจอมปลอม ความเปลี่ยนแปลง ความไม่มั่นคง การปฏิวัติพลิกผัน"
+],
+"addUp": [
+"Inflexible will, unalterable law.",
+"เจตจำนงที่ไม่ยอมโอนอ่อน กฎที่ไม่อาจเปลี่ยนแปลง"
+],
+"addRev": [
+"Unexpected change of position.",
+"การเปลี่ยนสถานะอย่างไม่คาดคิด"
+]
+},
+"swords-14": {
+"kw": [
+"การตัดสิน",
+"อำนาจ",
+"กฎหมาย"
+],
+"up": [
+"Whatsoever arises out of the idea of judgment and all its connexions—power, command, authority, militant intelligence, law, offices of the crown, and so forth.",
+"ทุกสิ่งที่เกิดจากแนวคิดแห่งการตัดสินและทุกสิ่งที่เกี่ยวเนื่อง อำนาจ การบังคับบัญชา สิทธิอำนาจ ปัญญาแห่งการต่อสู้ กฎหมาย ตำแหน่งราชการ และอื่น ๆ"
+],
+"rev": [
+"Cruelty, perversity, barbarity, perfidy, evil intention.",
+"ความโหดร้าย ความวิปริต ความป่าเถื่อน การทรยศ เจตนาร้าย"
+],
+"addUp": [
+"A lawyer, senator, doctor.",
+"ทนายความ สมาชิกวุฒิสภา แพทย์"
+],
+"addRev": [
+"A bad man; also a caution to put an end to a ruinous lawsuit.",
+"ชายชั่ว และยังเป็นคำเตือนให้ยุติคดีความที่กำลังนำไปสู่ความพินาศ"
+]
+},
+"swords-13": {
+"kw": [
+"ความเป็นหม้าย",
+"ความโศกเศร้า",
+"การพลัดพราก"
+],
+"up": [
+"Widowhood, female sadness and embarrassment, absence, sterility, mourning, privation, separation.",
+"ความเป็นหม้าย ความโศกเศร้าและความลำบากใจของสตรี การไม่อยู่ ความเป็นหมัน การไว้ทุกข์ ความขาดแคลน การพลัดพราก"
+],
+"rev": [
+"Malice, bigotry, artifice, prudery, bale, deceit.",
+"ความมุ่งร้าย ความใจแคบ เล่ห์กล การทำทีเคร่งครัด ความหายนะ การหลอกลวง"
+],
+"addUp": [
+"A widow.",
+"หญิงหม้าย"
+],
+"addRev": [
+"A bad woman, with ill-will towards the Querent.",
+"หญิงร้ายที่มุ่งร้ายต่อผู้ถาม"
+]
+},
+"swords-12": {
+"kw": [
+"ความกล้าหาญ",
+"การต่อสู้",
+"การต่อต้าน"
+],
+"up": [
+"Skill, bravery, capacity, defence, address, enmity, wrath, war, destruction, opposition, resistance, ruin. There is therefore a sense in which the card signifies death, but it carries this meaning only in its proximity to other cards of fatality.",
+"ทักษะ ความกล้าหาญ ความสามารถ การป้องกัน ไหวพริบ ความเป็นศัตรู ความโกรธ สงคราม การทำลาย การต่อต้าน การขัดขืน ความพินาศ ดังนั้นในแง่หนึ่งไพ่นี้หมายถึงความตาย แต่จะมีความหมายนี้เมื่ออยู่ใกล้ไพ่แห่งชะตากรรมอื่น ๆ เท่านั้น"
+],
+"rev": [
+"Imprudence, incapacity, extravagance.",
+"ความไม่รอบคอบ ความไร้ความสามารถ ความฟุ่มเฟือย"
+],
+"addUp": [
+"A soldier, man of arms, satellite, stipendiary; heroic action predicted for soldier.",
+"ทหาร นักรบ ผู้ติดตาม ผู้รับค่าจ้าง ทำนายถึงวีรกรรมสำหรับทหาร"
+],
+"addRev": [
+"Dispute with an imbecile person; for a woman, struggle with a rival, who will be conquered.",
+"ข้อพิพาทกับคนโง่เขลา สำหรับหญิง คือการต่อสู้กับคู่แข่งซึ่งนางจะเอาชนะได้"
+]
+},
+"swords-11": {
+"kw": [
+"การสอดแนม",
+"การเฝ้าระวัง",
+"การตรวจสอบ"
+],
+"up": [
+"Authority, overseeing, secret service, vigilance, spying, examination, and the qualities thereto belonging.",
+"อำนาจ การกำกับดูแล หน่วยสืบราชการลับ การเฝ้าระวัง การสอดแนม การตรวจสอบ และคุณสมบัติที่เกี่ยวข้อง"
+],
+"rev": [
+"More evil side of these qualities; what is unforeseen, unprepared state; sickness is also intimated.",
+"ด้านที่ชั่วร้ายกว่าของคุณสมบัติเหล่านี้ สิ่งที่ไม่คาดคิด ภาวะที่ไม่ได้เตรียมพร้อม และยังบ่งบอกถึงความเจ็บป่วย"
+],
+"addUp": [
+"An indiscreet person will pry into the Querent's secrets.",
+"คนไม่รู้จักกาลเทศะจะสอดรู้ความลับของผู้ถาม"
+],
+"addRev": [
+"Astonishing news.",
+"ข่าวที่น่าประหลาดใจ"
+]
+},
+"swords-10": {
+"kw": [
+"ความเจ็บปวด",
+"น้ำตา",
+"ความเศร้า"
+],
+"up": [
+"Whatsoever is intimated by the design; also pain, affliction, tears, sadness, desolation. It is not especially a card of violent death.",
+"ทุกสิ่งที่ภาพบนไพ่สื่อถึง และยังหมายถึงความเจ็บปวด ความทุกข์ทรมาน น้ำตา ความเศร้า ความรกร้าง ไม่ได้เป็นไพ่ของการตายอย่างรุนแรงโดยเฉพาะ"
+],
+"rev": [
+"Advantage, profit, success, favour, but none of these are permanent; also power and authority.",
+"ความได้เปรียบ ผลกำไร ความสำเร็จ ความโปรดปราน แต่ไม่มีสิ่งใดถาวร และยังหมายถึงอำนาจและสิทธิอำนาจ"
+],
+"addUp": [
+"Followed by Ace and King, imprisonment; for girl or wife, treason on the part of friends.",
+"หากตามด้วยเอซและราชา คือการถูกจองจำ สำหรับหญิงสาวหรือภรรยา คือการถูกเพื่อนทรยศ"
+],
+"addRev": [
+"Victory and consequent fortune for a soldier in war.",
+"ชัยชนะและโชคลาภที่ตามมาสำหรับทหารในสงคราม"
+]
+},
+"swords-9": {
+"kw": [
+"ความล้มเหลว",
+"ความผิดหวัง",
+"ความสิ้นหวัง"
+],
+"up": [
+"Death, failure, miscarriage, delay, deception, disappointment, despair.",
+"ความตาย ความล้มเหลว การแท้ง ความล่าช้า การหลอกลวง ความผิดหวัง ความสิ้นหวัง"
+],
+"rev": [
+"Imprisonment, suspicion, doubt, reasonable fear, shame.",
+"การถูกจองจำ ความระแวง ความสงสัย ความกลัวที่มีเหตุผล ความอับอาย"
+],
+"addUp": [
+"An ecclesiastic, a priest; generally, a card of bad omen.",
+"นักบวช บาทหลวง โดยทั่วไปเป็นไพ่ลางร้าย"
+],
+"addRev": [
+"Good ground for suspicion against a doubtful person.",
+"มีเหตุผลอันควรที่จะสงสัยบุคคลที่น่าเคลือบแคลง"
+]
+},
+"swords-8": {
+"kw": [
+"ข่าวร้าย",
+"วิกฤต",
+"อำนาจที่ถูกพันธนาการ"
+],
+"up": [
+"Bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness.",
+"ข่าวร้าย ความขุ่นเคืองอย่างรุนแรง วิกฤต การถูกตำหนิ อำนาจที่ถูกพันธนาการ ความขัดแย้ง การใส่ร้าย และยังหมายถึงความเจ็บป่วย"
+],
+"rev": [
+"Disquiet, difficulty, opposition, accident, treachery; what is unforeseen; fatality.",
+"ความกระสับกระส่าย ความยากลำบาก การต่อต้าน อุบัติเหตุ การทรยศ สิ่งที่ไม่คาดคิด ชะตากรรม"
+],
+"addUp": [
+"For a woman, scandal spread in her respect.",
+"สำหรับหญิง คือเรื่องอื้อฉาวที่ถูกกระพือเกี่ยวกับนาง"
+],
+"addRev": [
+"Departure of a relative.",
+"การจากไปของญาติ"
+]
+},
+"swords-7": {
+"kw": [
+"แผนการ",
+"ความหวัง",
+"แผนที่อาจล้มเหลว"
+],
+"up": [
+"Design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance. The design is uncertain in its import, because the significations are widely at variance with each other.",
+"แผนการ ความพยายาม ความปรารถนา ความหวัง ความมั่นใจ และยังหมายถึงการทะเลาะ แผนที่อาจล้มเหลว ความรำคาญใจ ความหมายของภาพไม่แน่ชัด เพราะความหมายต่าง ๆ ขัดแย้งกันมาก"
+],
+"rev": [
+"Good advice, counsel, instruction, slander, babbling.",
+"คำแนะนำที่ดี คำปรึกษา การสั่งสอน การใส่ร้าย การพูดพล่าม"
+],
+"addUp": [
+"Dark girl; a good card; it promises a country life after a competence has been secured.",
+"หญิงสาวผิวคล้ำ ไพ่ดี สัญญาว่าจะได้ใช้ชีวิตชนบทหลังจากมีฐานะพอเพียงแล้ว"
+],
+"addRev": [
+"Good advice, probably neglected.",
+"คำแนะนำที่ดี ซึ่งอาจถูกละเลย"
+]
+},
+"swords-6": {
+"kw": [
+"การเดินทางทางน้ำ",
+"เส้นทาง",
+"ทางออก"
+],
+"up": [
+"Journey by water, route, way, envoy, commissionary, expedient.",
+"การเดินทางทางน้ำ เส้นทาง หนทาง ผู้แทน ผู้ได้รับมอบหมาย ทางออกแก้ปัญหา"
+],
+"rev": [
+"Declaration, confession, publicity; one account says that it is a proposal of love.",
+"การประกาศ การสารภาพ การเปิดเผยต่อสาธารณะ ตำราหนึ่งกล่าวว่าเป็นการขอความรัก"
+],
+"addUp": [
+"The voyage will be pleasant.",
+"การเดินทางจะราบรื่นน่ายินดี"
+],
+"addRev": [
+"Unfavourable issue of lawsuit.",
+"ผลคดีความที่ไม่เป็นใจ"
+]
+},
+"swords-5": {
+"kw": [
+"ความเสื่อมเสีย",
+"การทำลาย",
+"ความสูญเสีย"
+],
+"up": [
+"Degradation, destruction, revocation, infamy, dishonour, loss, with the variants and analogues of these.",
+"ความตกต่ำ การทำลาย การเพิกถอน ความเสื่อมเสียชื่อเสียง ความอัปยศ ความสูญเสีย และสิ่งที่แปรผันหรือคล้ายคลึงกับสิ่งเหล่านี้"
+],
+"rev": [
+"The same; burial and obsequies.",
+"เช่นเดียวกัน; การฝังศพและพิธีศพ"
+],
+"addUp": [
+"An attack on the fortune of the Querent.",
+"การโจมตีต่อโชคลาภของผู้ถาม"
+],
+"addRev": [
+"A sign of sorrow and mourning.",
+"สัญญาณแห่งความเศร้าโศกและการไว้ทุกข์"
+]
+},
+"swords-4": {
+"kw": [
+"การเฝ้าระวัง",
+"การถอยออกมา",
+"ความสันโดษ"
+],
+"up": [
+"Vigilance, retreat, solitude, hermit's repose, exile, tomb and coffin. It is these last that have suggested the design.",
+"การเฝ้าระวัง การถอยออกมา ความสันโดษ การพักผ่อนแบบฤๅษี การเนรเทศ หลุมศพและโลงศพ สองสิ่งหลังนี้คือที่มาของภาพบนไพ่"
+],
+"rev": [
+"Wise administration, circumspection, economy, avarice, precaution, testament.",
+"การบริหารอย่างชาญฉลาด ความรอบคอบ ความประหยัด ความตระหนี่ การป้องกันไว้ก่อน พินัยกรรม"
+],
+"addUp": [
+"A bad card, but if reversed a qualified success may be expected by wise administration of affairs.",
+"ไพ่ไม่ดี แต่หากกลับหัว อาจคาดหวังความสำเร็จได้บ้างจากการบริหารกิจการอย่างชาญฉลาด"
+],
+"addRev": [
+"A certain success following wise administration.",
+"ความสำเร็จระดับหนึ่งที่ตามมาจากการบริหารอย่างชาญฉลาด"
+]
+},
+"swords-3": {
+"kw": [
+"การพลัดพราก",
+"ความล่าช้า",
+"การแตกหัก"
+],
+"up": [
+"Removal, absence, delay, division, rupture, dispersion, and all that the design signifies naturally, being too simple and obvious to call for specific enumeration.",
+"การย้ายออกไป การไม่อยู่ ความล่าช้า การแบ่งแยก การแตกหัก การกระจัดกระจาย และทุกสิ่งที่ภาพบนไพ่สื่อโดยธรรมชาติ ซึ่งเรียบง่ายและชัดเจนเกินกว่าจะต้องแจกแจง"
+],
+"rev": [
+"Mental alienation, error, loss, distraction, disorder, confusion.",
+"ความแปลกแยกทางจิตใจ ความผิดพลาด ความสูญเสีย ความไขว้เขว ความไม่เป็นระเบียบ ความสับสน"
+],
+"addUp": [
+"For a woman, the flight of her lover.",
+"สำหรับหญิง คือการหนีไปของคนรัก"
+],
+"addRev": [
+"A meeting with one whom the Querent has compromised; also a nun.",
+"การพบกับผู้ที่ผู้ถามเคยทำให้เสียหาย และยังหมายถึงแม่ชี"
+]
+},
+"swords-2": {
+"kw": [
+"ความสมดุล",
+"ความกล้าหาญ",
+"มิตรภาพ"
+],
+"up": [
+"Conformity and the equipoise which it suggests, courage, friendship, concord in a state of arms; another reading gives tenderness, affection, intimacy. The suggestion of harmony and other favourable readings must be considered in a qualified manner, as Swords generally are not symbolical of beneficent forces in human affairs.",
+"การยอมตามและความสมดุลที่ตามมา ความกล้าหาญ มิตรภาพ ความปรองดองในภาวะที่ยังถืออาวุธ อีกตำราหนึ่งให้ความหมายว่าความอ่อนโยน ความรักใคร่ ความใกล้ชิด ความหมายด้านความกลมเกลียวและด้านดีอื่น ๆ ต้องพิจารณาอย่างมีเงื่อนไข เพราะโดยทั่วไปไพ่ดาบไม่ได้เป็นสัญลักษณ์ของพลังที่เป็นคุณต่อกิจการของมนุษย์"
+],
+"rev": [
+"Imposture, falsehood, duplicity, disloyalty.",
+"การหลอกลวง ความเท็จ ความตลบตะแลง ความไม่ซื่อสัตย์"
+],
+"addUp": [
+"Gifts for a lady, influential protection for a man in search of help.",
+"ของขวัญสำหรับสุภาพสตรี การคุ้มครองจากผู้มีอิทธิพลสำหรับชายที่กำลังหาความช่วยเหลือ"
+],
+"addRev": [
+"Dealings with rogues.",
+"การติดต่อกับคนโกง"
+]
+},
+"swords-1": {
+"kw": [
+"ชัยชนะ",
+"พลังสูงสุด",
+"การพิชิต"
+],
+"up": [
+"Triumph, the excessive degree in everything, conquest, triumph of force. It is a card of great force, in love as well as in hatred. The crown may carry a much higher significance than comes usually within the sphere of fortune-telling.",
+"ชัยชนะ ความสุดขั้วในทุกสิ่ง การพิชิต ชัยชนะของพลังอำนาจ เป็นไพ่แห่งพลังอันยิ่งใหญ่ ทั้งในความรักและในความเกลียดชัง มงกุฎอาจมีความหมายสูงส่งกว่าที่อยู่ในขอบเขตของการทำนายโชคชะตาทั่วไป"
+],
+"rev": [
+"The same, but the results are disastrous; another account says—conception, childbirth, augmentation, multiplicity.",
+"เช่นเดียวกัน แต่ผลลัพธ์เป็นหายนะ อีกตำราหนึ่งกล่าวว่า คือการตั้งครรภ์ การคลอดบุตร การเพิ่มพูน ความมากมาย"
+],
+"addUp": [
+"Great prosperity or great misery.",
+"ความรุ่งเรืองอย่างยิ่ง หรือความทุกข์ยากอย่างยิ่ง"
+],
+"addRev": [
+"Marriage broken off, for a woman, through her own imprudence.",
+"สำหรับหญิง คือการแต่งงานที่ล่มเพราะความไม่ระวังของตนเอง"
+]
+},
+"pentacles-14": {
+"kw": [
+"ความกล้าหาญ",
+"ปัญญาที่ทำให้เป็นจริง",
+"ความสำเร็จทางธุรกิจ"
+],
+"up": [
+"Valour, realizing intelligence, business and normal intellectual aptitude, sometimes mathematical gifts and attainments of this kind; success in these paths.",
+"ความกล้าหาญ ปัญญาที่ทำให้สิ่งต่าง ๆ เป็นจริง ความถนัดด้านธุรกิจและสติปัญญาทั่วไป บางครั้งคือพรสวรรค์ทางคณิตศาสตร์และความสำเร็จในด้านนี้ ความสำเร็จในเส้นทางเหล่านี้"
+],
+"rev": [
+"Vice, weakness, ugliness, perversity, corruption, peril.",
+"ความชั่วร้าย ความอ่อนแอ ความน่าเกลียด ความวิปริต ความเสื่อมทราม อันตราย"
+],
+"addUp": [
+"A rather dark man, a merchant, master, professor.",
+"ชายผิวค่อนข้างคล้ำ พ่อค้า นายจ้าง อาจารย์"
+],
+"addRev": [
+"An old and vicious man.",
+"ชายชราผู้มีนิสัยชั่วร้าย"
+]
+},
+"pentacles-13": {
+"kw": [
+"ความมั่งคั่ง",
+"ความใจกว้าง",
+"ความมั่นคง"
+],
+"up": [
+"Opulence, generosity, magnificence, security, liberty.",
+"ความมั่งคั่ง ความใจกว้าง ความโอ่อ่า ความมั่นคง อิสรภาพ"
+],
+"rev": [
+"Evil, suspicion, suspense, fear, mistrust.",
+"ความชั่วร้าย ความระแวง ความค้างคา ความกลัว ความไม่ไว้วางใจ"
+],
+"addUp": [
+"Dark woman; presents from a rich relative; rich and happy marriage for a young man.",
+"หญิงผิวคล้ำ ของขวัญจากญาติผู้ร่ำรวย การแต่งงานที่ร่ำรวยและมีความสุขสำหรับชายหนุ่ม"
+],
+"addRev": [
+"An illness.",
+"ความเจ็บป่วย"
+]
+},
+"pentacles-12": {
+"kw": [
+"ความมีประโยชน์",
+"ความรับผิดชอบ",
+"ความซื่อตรง"
+],
+"up": [
+"Utility, serviceableness, interest, responsibility, rectitude—all on the normal and external plane.",
+"ประโยชน์ใช้สอย ความเป็นประโยชน์ ผลประโยชน์ ความรับผิดชอบ ความซื่อตรง ทั้งหมดอยู่ในระดับปกติและภายนอก"
+],
+"rev": [
+"inertia, idleness, repose of that kind, stagnation; also placidity, discouragement, carelessness.",
+"ความเฉื่อยชา ความเกียจคร้าน การพักผ่อนแบบนั้น ความชะงักงัน และยังหมายถึงความเรื่อยเฉื่อย ความท้อแท้ ความไม่ใส่ใจ"
+],
+"addUp": [
+"An useful man; useful discoveries.",
+"ชายที่มีประโยชน์ การค้นพบที่มีประโยชน์"
+],
+"addRev": [
+"A brave man out of employment.",
+"ชายผู้กล้าหาญที่ตกงาน"
+]
+},
+"pentacles-11": {
+"kw": [
+"การศึกษา",
+"ความใฝ่รู้",
+"ข่าวสาร"
+],
+"up": [
+"Application, study, scholarship, reflection; another reading says news, messages and the bringer thereof; also rule, management.",
+"ความตั้งใจ การศึกษา ความรู้ทางวิชาการ การไตร่ตรอง อีกตำราหนึ่งกล่าวว่าคือข่าวสาร ข้อความ และผู้นำมา และยังหมายถึงกฎระเบียบ การบริหารจัดการ"
+],
+"rev": [
+"Prodigality, dissipation, liberality. luxury; unfavourable news.",
+"ความสุรุ่ยสุร่าย ความเสเพล ความใจกว้างเกินไป ความหรูหรา ข่าวร้าย"
+],
+"addUp": [
+"A dark youth; a young officer or soldier; a child.",
+"ชายหนุ่มผิวคล้ำ นายทหารหนุ่มหรือทหาร เด็ก"
+],
+"addRev": [
+"Sometimes degradation and sometimes pillage.",
+"บางครั้งคือความตกต่ำ บางครั้งคือการถูกปล้นสะดม"
+]
+},
+"pentacles-10": {
+"kw": [
+"ผลกำไร",
+"ความร่ำรวย",
+"เรื่องครอบครัว"
+],
+"up": [
+"Gain, riches; family matters, archives, extraction, the abode of a family.",
+"ผลกำไร ความร่ำรวย เรื่องในครอบครัว เอกสารสำคัญ เชื้อสาย ที่พำนักของครอบครัว"
+],
+"rev": [
+"Chance, fatality, loss, robbery, games of hazard; sometimes gift, dowry, pension.",
+"โอกาสสุ่ม ชะตากรรม ความสูญเสีย การถูกปล้น การพนัน บางครั้งคือของขวัญ สินสอด เงินบำนาญ"
+],
+"addUp": [
+"Represents house or dwelling, and derives its value from other cards.",
+"หมายถึงบ้านหรือที่อยู่อาศัย และมีคุณค่าตามไพ่อื่น ๆ"
+],
+"addRev": [
+"An occasion which may be fortunate or otherwise.",
+"โอกาสซึ่งอาจโชคดีหรือไม่ก็ได้"
+]
+},
+"pentacles-9": {
+"kw": [
+"ความรอบคอบ",
+"ความปลอดภัย",
+"ความสำเร็จ"
+],
+"up": [
+"Prudence, safety, success, accomplishment, certitude, discernment.",
+"ความรอบคอบ ความปลอดภัย ความสำเร็จ การบรรลุผล ความแน่นอน การรู้จักแยกแยะ"
+],
+"rev": [
+"Roguery, deception, voided project, bad faith.",
+"ความฉ้อฉล การหลอกลวง แผนการที่ล้มเหลว ความไม่ซื่อสัตย์"
+],
+"addUp": [
+"Prompt fulfilment of what is presaged by neighbouring cards.",
+"การสมหวังอย่างรวดเร็วตามที่ไพ่ข้างเคียงบอกไว้"
+],
+"addRev": [
+"Vain hopes.",
+"ความหวังลม ๆ แล้ง ๆ"
+]
+},
+"pentacles-8": {
+"kw": [
+"งาน",
+"ฝีมือ",
+"ช่วงเตรียมการ"
+],
+"up": [
+"Work, employment, commission, craftsmanship, skill in craft and business, perhaps in the preparatory stage.",
+"งาน การจ้างงาน งานที่ได้รับมอบหมาย ฝีมือช่าง ความชำนาญในงานฝีมือและธุรกิจ อาจอยู่ในขั้นเตรียมการ"
+],
+"rev": [
+"Voided ambition, vanity, cupidity, exaction, usury. It may also signify the possession of skill, in the sense of the ingenious mind turned to cunning and intrigue.",
+"ความทะเยอทะยานที่ว่างเปล่า ความหยิ่งทะนง ความโลภ การรีดไถ การปล่อยกู้ดอกเบี้ยสูง และยังอาจหมายถึงการมีฝีมือ ในความหมายของจิตใจที่เฉลียวฉลาดแต่หันไปใช้เล่ห์เหลี่ยมและการวางแผนร้าย"
+],
+"addUp": [
+"A young man in business who has relations with the Querent; a dark girl.",
+"ชายหนุ่มนักธุรกิจที่มีความเกี่ยวข้องกับผู้ถาม หญิงสาวผิวคล้ำ"
+],
+"addRev": [
+"The Querent will be compromised in a matter of money-lending.",
+"ผู้ถามจะเสียหายในเรื่องการให้กู้ยืมเงิน"
+]
+},
+"pentacles-7": {
+"kw": [
+"เงินทอง",
+"ธุรกิจ",
+"การแลกเปลี่ยน"
+],
+"up": [
+"These are exceedingly contradictory; in the main, it is a card of money, business, barter; but one reading gives altercation, quarrel—and another innocence, ingenuity, purgation.",
+"ความหมายเหล่านี้ขัดแย้งกันอย่างมาก โดยหลักแล้วเป็นไพ่แห่งเงินทอง ธุรกิจ การแลกเปลี่ยนค้าขาย แต่ตำราหนึ่งให้ความหมายว่าการโต้เถียง การทะเลาะ และอีกตำราหนึ่งว่าความบริสุทธิ์ ความเฉลียวฉลาด การชำระล้าง"
+],
+"rev": [
+"Cause for anxiety regarding money which it may be proposed to lend.",
+"เหตุให้กังวลเกี่ยวกับเงินที่อาจมีผู้เสนอให้กู้ยืม"
+],
+"addUp": [
+"Improved position for a lady's future husband.",
+"ฐานะที่ดีขึ้นของว่าที่สามีของสุภาพสตรี"
+],
+"addRev": [
+"Impatience, apprehension, suspicion.",
+"ความใจร้อน ความหวาดหวั่น ความระแวง"
+]
+},
+"pentacles-6": {
+"kw": [
+"ของขวัญ",
+"การให้",
+"ความรุ่งเรืองปัจจุบัน"
+],
+"up": [
+"Presents, gifts, gratification; another account says attention, vigilance; now is the accepted time, present prosperity, etc.",
+"ของขวัญ ของกำนัล ความพึงพอใจ อีกตำราหนึ่งกล่าวว่าคือความใส่ใจ การเฝ้าระวัง บัดนี้คือเวลาที่เหมาะสม ความรุ่งเรืองในปัจจุบัน ฯลฯ"
+],
+"rev": [
+"Desire, cupidity, envy, jealousy, illusion.",
+"ความปรารถนา ความโลภ ความริษยา ความหึงหวง ภาพลวงตา"
+],
+"addUp": [
+"The present must not be relied on.",
+"อย่าไว้วางใจปัจจุบัน"
+],
+"addRev": [
+"A check on the Querent's ambition.",
+"การถูกขัดขวางความทะเยอทะยานของผู้ถาม"
+]
+},
+"pentacles-5": {
+"kw": [
+"ความลำบากทางวัตถุ",
+"ความยากจน",
+"ความรัก"
+],
+"up": [
+"The card foretells material trouble above all, whether in the form illustrated—that is, destitution—or otherwise. For some cartomancists, it is a card of love and lovers—wife, husband, friend, mistress; also concordance, affinities. These alternatives cannot be harmonized.",
+"ไพ่ทำนายถึงความลำบากทางวัตถุเหนือสิ่งอื่นใด ไม่ว่าจะในรูปตามภาพ คือความยากไร้ หรือรูปอื่น สำหรับนักทำนายไพ่บางคน เป็นไพ่แห่งความรักและคนรัก ภรรยา สามี เพื่อน ชู้รัก และยังหมายถึงความสอดคล้อง ความผูกพัน ความหมายทั้งสองทางนี้ไม่อาจประสานกันได้"
+],
+"rev": [
+"Disorder, chaos, ruin, discord, profligacy.",
+"ความไม่เป็นระเบียบ ความโกลาหล ความพินาศ ความไม่ลงรอย ความเสเพล"
+],
+"addUp": [
+"Conquest of fortune by reason.",
+"การพิชิตโชคลาภด้วยเหตุผล"
+],
+"addRev": [
+"Troubles in love.",
+"ปัญหาในความรัก"
+]
+},
+"pentacles-3": {
+"kw": [
+"งานฝีมือ",
+"เกียรติยศ",
+"ชื่อเสียง"
+],
+"up": [
+"Métier, trade, skilled labour; usually, how-ever, regarded as a card of nobility, aristocracy, renown, glory.",
+"อาชีพ การค้า แรงงานฝีมือ แต่โดยทั่วไปถือเป็นไพ่แห่งความสูงศักดิ์ ชนชั้นสูง ชื่อเสียง และความรุ่งโรจน์"
+],
+"rev": [
+"Mediocrity, in work and otherwise, puerility, pettiness, weakness.",
+"ความธรรมดาสามัญ ทั้งในงานและเรื่องอื่น ความเป็นเด็ก ความกระจอก ความอ่อนแอ"
+],
+"addUp": [
+"If for a man, celebrity for his eldest son.",
+"หากถามให้ชาย คือชื่อเสียงของบุตรชายคนโต"
+],
+"addRev": [
+"Depends on neighbouring cards.",
+"ขึ้นอยู่กับไพ่ข้างเคียง"
+]
+},
+"pentacles-2": {
+"kw": [
+"ความรื่นเริง",
+"ข่าวสารทางจดหมาย",
+"ความยุ่งเหยิง"
+],
+"up": [
+"On the one hand it is represented as a card of gaiety, recreation and its connexions, which is the subject of the design; but it is read also as news and messages in writing, as obstacles, agitation, trouble, embroilment.",
+"ด้านหนึ่งถือเป็นไพ่แห่งความรื่นเริง นันทนาการ และสิ่งที่เกี่ยวข้อง ซึ่งเป็นเรื่องของภาพบนไพ่ แต่ก็ตีความได้ว่าเป็นข่าวสารและข้อความที่เป็นลายลักษณ์อักษร อุปสรรค ความปั่นป่วน ปัญหา ความยุ่งเหยิงพัวพัน"
+],
+"rev": [
+"Enforced gaiety, simulated enjoyment, literal sense, handwriting, composition, letters of exchange.",
+"ความรื่นเริงที่ถูกบังคับ ความสนุกที่แสร้งทำ ความหมายตามตัวอักษร ลายมือ การประพันธ์ ตั๋วแลกเงิน"
+],
+"addUp": [
+"Troubles are more imaginary than real.",
+"ปัญหาเป็นเรื่องที่คิดไปเองมากกว่าเรื่องจริง"
+],
+"addRev": [
+"Bad omen, ignorance, injustice.",
+"ลางร้าย ความไม่รู้ ความอยุติธรรม"
+]
+},
+"pentacles-1": {
+"kw": [
+"ความพอใจสมบูรณ์",
+"ความปีติ",
+"ทองคำ"
+],
+"up": [
+"Perfect contentment, felicity, ecstasy; also speedy intelligence; gold.",
+"ความพอใจอย่างสมบูรณ์ ความสุข ความปีติล้นพ้น และยังหมายถึงข่าวสารที่รวดเร็ว ทองคำ"
+],
+"rev": [
+"The evil side of wealth, bad intelligence; also great riches. In any case it shews prosperity, comfortable material conditions, but whether these are of advantage to the possessor will depend on whether the card is reversed or not.",
+"ด้านร้ายของความมั่งคั่ง ข่าวร้าย และยังหมายถึงความร่ำรวยอย่างยิ่ง ไม่ว่ากรณีใด ไพ่แสดงถึงความรุ่งเรืองและสภาพความเป็นอยู่ทางวัตถุที่สะดวกสบาย แต่จะเป็นประโยชน์ต่อผู้ครอบครองหรือไม่ ขึ้นอยู่กับว่าไพ่กลับหัวหรือไม่"
+],
+"addUp": [
+"The most favourable of all cards.",
+"ไพ่ที่เป็นมงคลที่สุดในบรรดาไพ่ทั้งหมด"
+],
+"addRev": [
+"A share in the finding of treasure.",
+"ได้ส่วนแบ่งจากการพบขุมทรัพย์"
+]
+},
+"cups-2": {
+"kw": [
+"ความรัก",
+"มิตรภาพ",
+"การรวมกัน"
+],
+"up": [
+"Love, passion, friendship, affinity, union, concord, sympathy, the interrelation of the sexes, and—as a suggestion apart from all offices of divination—that desire which is not in Nature, but by which Nature is sanctified.",
+"ความรัก ความหลงใหล มิตรภาพ ความผูกพัน การรวมกัน ความปรองดอง ความเห็นอกเห็นใจ ความสัมพันธ์ระหว่างชายหญิง และในฐานะข้อแนะที่อยู่นอกเหนือการพยากรณ์ คือความปรารถนาที่ไม่ได้อยู่ในธรรมชาติ แต่เป็นสิ่งที่ทำให้ธรรมชาติศักดิ์สิทธิ์"
+],
+"rev": [
+"",
+""
+],
+"addUp": [
+"Favourable in things of pleasure and business, as well as love; also wealth and honour.",
+"เป็นผลดีในเรื่องความสุข ธุรกิจ และความรัก และยังหมายถึงความมั่งคั่งและเกียรติยศ"
+],
+"addRev": [
+"Passion.",
+"ความหลงใหลรุนแรง"
+]
+},
+"pentacles-4": {
+"kw": [
+"ความมั่นคงของทรัพย์สิน",
+"การยึดถือสิ่งที่มี",
+"มรดก"
+],
+"up": [
+"The surety of possessions, cleaving to that which one has, gift, legacy, inheritance.",
+"ความมั่นคงของทรัพย์สิน การยึดมั่นในสิ่งที่ตนมี ของขวัญ ทรัพย์ตกทอด มรดก"
+],
+"rev": [
+"Suspense, delay, opposition.",
+"ความค้างคา ความล่าช้า การต่อต้าน"
+],
+"addUp": [
+"For a bachelor, pleasant news from a lady.",
+"สำหรับชายโสด คือข่าวดีจากสุภาพสตรี"
+],
+"addRev": [
+"Observation, hindrances.",
+"การสังเกตการณ์ อุปสรรค"
+]
+}
+},
+"recur": {
+"natural": {
+"14": {
+"4": [
+"great honour",
+"เกียรติยศอันยิ่งใหญ่"
+],
+"3": [
+"consultation",
+"การปรึกษาหารือ"
+],
+"2": [
+"minor counsel",
+"คำแนะนำเล็กน้อย"
+]
+},
+"13": {
+"4": [
+"great debate",
+"การถกเถียงครั้งใหญ่"
+],
+"3": [
+"deception by women",
+"การถูกหลอกลวงโดยผู้หญิง"
+],
+"2": [
+"sincere friends",
+"เพื่อนที่จริงใจ"
+]
+},
+"12": {
+"4": [
+"serious matters",
+"เรื่องร้ายแรงจริงจัง"
+],
+"3": [
+"lively debate",
+"การโต้เถียงอย่างเผ็ดร้อน"
+],
+"2": [
+"intimacy",
+"ความใกล้ชิดสนิทสนม"
+]
+},
+"11": {
+"4": [
+"dangerous illness",
+"ความเจ็บป่วยที่อันตราย"
+],
+"3": [
+"dispute",
+"ข้อพิพาท"
+],
+"2": [
+"disquiet",
+"ความกระวนกระวายใจ"
+]
+},
+"10": {
+"4": [
+"condemnation",
+"การถูกประณาม"
+],
+"3": [
+"new condition",
+"สภาพการณ์ใหม่"
+],
+"2": [
+"change",
+"การเปลี่ยนแปลง"
+]
+},
+"9": {
+"4": [
+"a good friend",
+"เพื่อนที่ดี"
+],
+"3": [
+"success",
+"ความสำเร็จ"
+],
+"2": [
+"receipt",
+"การได้รับ"
+]
+},
+"8": {
+"4": [
+"reverse",
+"การพลิกกลับ"
+],
+"3": [
+"marriage",
+"การแต่งงาน"
+],
+"2": [
+"new knowledge",
+"ความรู้ใหม่"
+]
+},
+"7": {
+"4": [
+"intrigue",
+"อุบายแผนร้าย"
+],
+"3": [
+"infirmity",
+"ความอ่อนแอเจ็บป่วย"
+],
+"2": [
+"news",
+"ข่าวสาร"
+]
+},
+"6": {
+"4": [
+"abundance",
+"ความอุดมสมบูรณ์"
+],
+"3": [
+"success",
+"ความสำเร็จ"
+],
+"2": [
+"irritability",
+"ความหงุดหงิดง่าย"
+]
+},
+"5": {
+"4": [
+"regularity",
+"ความสม่ำเสมอเป็นระเบียบ"
+],
+"3": [
+"determination",
+"ความมุ่งมั่น"
+],
+"2": [
+"vigils",
+"การเฝ้ารอตลอดคืน"
+]
+},
+"4": {
+"4": [
+"journey near at hand",
+"การเดินทางที่ใกล้เข้ามา"
+],
+"3": [
+"a subject of reflection",
+"เรื่องที่ต้องไตร่ตรอง"
+],
+"2": [
+"insomnia",
+"การนอนไม่หลับ"
+]
+},
+"3": {
+"4": [
+"progress",
+"ความก้าวหน้า"
+],
+"3": [
+"unity",
+"ความเป็นหนึ่งเดียว"
+],
+"2": [
+"calm",
+"ความสงบ"
+]
+},
+"2": {
+"4": [
+"contention",
+"การช่วงชิง"
+],
+"3": [
+"security",
+"ความปลอดภัย"
+],
+"2": [
+"accord",
+"ความลงรอย"
+]
+},
+"1": {
+"4": [
+"favourable chance",
+"โอกาสที่เป็นใจ"
+],
+"3": [
+"small success",
+"ความสำเร็จเล็กน้อย"
+],
+"2": [
+"trickery",
+"กลโกง"
+]
+}
+},
+"reversed": {
+"14": {
+"4": [
+"celerity",
+"ความรวดเร็ว"
+],
+"3": [
+"commerce",
+"การค้า"
+],
+"2": [
+"projects",
+"โครงการ"
+]
+},
+"13": {
+"4": [
+"bad company",
+"การคบคนไม่ดี"
+],
+"3": [
+"gluttony",
+"ความตะกละ"
+],
+"2": [
+"work",
+"งาน"
+]
+},
+"12": {
+"4": [
+"alliance",
+"พันธมิตร"
+],
+"3": [
+"a duel, or personal encounter",
+"การดวล หรือการเผชิญหน้าตัวต่อตัว"
+],
+"2": [
+"susceptibility",
+"ความอ่อนไหวง่าย"
+]
+},
+"11": {
+"4": [
+"privation",
+"ความขาดแคลน"
+],
+"3": [
+"idleness",
+"ความเกียจคร้าน"
+],
+"2": [
+"society",
+"สังคม"
+]
+},
+"10": {
+"4": [
+"event, happening",
+"เหตุการณ์ที่เกิดขึ้น"
+],
+"3": [
+"disappointment",
+"ความผิดหวัง"
+],
+"2": [
+"expectation justified",
+"ความคาดหวังที่เป็นจริง"
+]
+},
+"9": {
+"4": [
+"usury",
+"การปล่อยกู้ดอกเบี้ยสูง"
+],
+"3": [
+"imprudence",
+"ความไม่รอบคอบ"
+],
+"2": [
+"a small profit",
+"กำไรเล็กน้อย"
+]
+},
+"8": {
+"4": [
+"error",
+"ความผิดพลาด"
+],
+"3": [
+"a spectacle",
+"เหตุการณ์ที่เป็นที่จับตา"
+],
+"2": [
+"misfortune",
+"เคราะห์ร้าย"
+]
+},
+"7": {
+"4": [
+"quarrellers",
+"คนชอบทะเลาะ"
+],
+"3": [
+"joy",
+"ความปีติ"
+],
+"2": [
+"women of no repute",
+"หญิงที่ไม่มีชื่อเสียงดี"
+]
+},
+"6": {
+"4": [
+"care",
+"ความกังวลใส่ใจ"
+],
+"3": [
+"satisfaction",
+"ความพึงพอใจ"
+],
+"2": [
+"downfall",
+"ความล่มสลาย"
+]
+},
+"5": {
+"4": [
+"order",
+"ความเป็นระเบียบ"
+],
+"3": [
+"hesitation",
+"ความลังเล"
+],
+"2": [
+"reverse",
+"การพลิกกลับ"
+]
+},
+"4": {
+"4": [
+"walks abroad",
+"การเดินทางออกไปข้างนอก"
+],
+"3": [
+"disquiet",
+"ความกระวนกระวาย"
+],
+"2": [
+"dispute",
+"ข้อพิพาท"
+]
+},
+"3": {
+"4": [
+"great success",
+"ความสำเร็จอันยิ่งใหญ่"
+],
+"3": [
+"serenity",
+"ความสงบเยือกเย็น"
+],
+"2": [
+"safety",
+"ความปลอดภัย"
+]
+},
+"2": {
+"4": [
+"reconciliation",
+"การคืนดี"
+],
+"3": [
+"apprehension",
+"ความหวาดหวั่น"
+],
+"2": [
+"mistrust",
+"ความไม่ไว้วางใจ"
+]
+},
+"1": {
+"4": [
+"dishonour",
+"ความเสื่อมเสียเกียรติ"
+],
+"3": [
+"debauchery",
+"ความเสเพล"
+],
+"2": [
+"enemies",
+"ศัตรู"
+]
+}
+}
+}
+}
